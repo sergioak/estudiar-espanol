@@ -6,153 +6,138 @@
 |------|------|
 | **单词** | **plantear** |
 | 音标 | [plan.teˈar] |
-| 词性 | v. tr. |
-| 核心释义 | 提出、引发、使产生、规划 |
-
----
+| 词性 | v.tr. 及物动词（第一变位） |
+| 核心释义 | 提出、引发、陈述、摆出 |
 
 ## 🧠 记忆辅助
 
-- **联想记忆**：planta（植物、平面图）+ -ear。想象你把一棵"植物"放在桌上让大家看——你正在"提出"一个想法让大家审视。或者想象建筑师展开一张"平面图"（planta），他在"规划"一个项目。
-- **词源补充**：来自 planta（拉丁语 planta，意为"脚底、平面"），引申为"铺设基础、规划"。plantear 的核心意象是"把某事物摆在众人面前"。
-
----
+- **联想记忆**：plantear 与 planta（计划/方案）相关。想象一个建筑师"摆出"（plantear）他的方案，然后"提出"问题让大家讨论。plantear = 把问题"摆到台面上"。
+- **词源补充**：来自拉丁语 plantare（种植/安置），引申为"把问题摆出来"。与 plan（计划）和 planta（平面图/方案）同源。
 
 ## ✏️ 核心用法
 
-**用法一：提出（问题/疑问/建议）**
-将一个问题、疑问或建议正式摆出来讨论。最常见的用法。
+**1. 提出（问题/议题/方案）**
+在正式讨论中提出某个议题供讨论。
 
-**用法二：引发/造成（困难/挑战）**
-某个事物引发或造成某种情况。
+**2. 引发/造成（困难/挑战）**
+说明某事产生了需要面对的问题。
 
-**用法三：规划/设计（方案/计划）**
-设计或规划某个方案、策略。
+**3. 陈述/表达（想法/观点）**
+清楚地阐述某个立场或观点。
 
-**用法四：planteárselo a alguien = 向某人提出（某事）**
-间接宾语结构，指向特定的人提出问题。
-
----
+**4. plantearse（自反形式）**
+自问、考虑、思考某事。
 
 ## 📝 例句模块
 
-**提出问题/疑问：**
-1. **El profesor planteó una pregunta difícil a los estudiantes.**
-   老师向学生们提出了一个难题。
+**1.** El director planteó una pregunta difícil al final de la reunión.
+主任在会议最后提出了一个难题。
 
-2. **Quiero plantear una cuestión importante en la reunión.**
-   我想在会议上提出一个重要问题。
+**2.** La situación plantea serios desafíos para la empresa.
+这一情况给公司带来了严峻的挑战。
 
-3. **Se planteó la duda de si el proyecto era viable.**
-   有人提出了这个项目是否可行的疑问。
+**3.** Quiero plantear mi punto de vista sobre este asunto.
+我想就此事陈述我的观点。
 
-**引发/造成：**
-4. **La nueva ley plantea muchos debates en la sociedad.**
-   新法律在社会上引发了很多争论。
+**4.** Se planteó la posibilidad de cambiar de estrategia.
+提出了改变策略的可能性。
 
-5. **Esta situación plantea un reto enorme para la empresa.**
-   这个情况给公司带来了巨大的挑战。
+**5.** Me planteé si realmente quería mudarme a otro país.
+我自问是否真的想搬到另一个国家。
 
-**规划：**
-6. **El arquitecto planteó un diseño innovador para el edificio.**
-   建筑师为这栋楼规划了一个创新的设计。
+**6.** El profesor planteó un ejercicio muy interesante.
+老师布置了一个非常有趣的练习。
 
-**向某人提出：**
-7. **Me plantearon la posibilidad de cambiar de departamento.**
-   他们向我提出了换部门的可能性。
+**7.** Esta ley plantea más problemas que soluciones.
+这条法律带来的问题比解决的多。
 
-8. **¿Te has planteado alguna vez trabajar en el extranjero?**
-   你有没有想过在国外工作？
-
----
+**8.** ¿Podrías plantear la cuestión de otra manera?
+你能用另一种方式提出这个问题吗？
 
 ## 📋 习题模块
 
-**1. "El informe plantea serias dudas sobre la seguridad." ¿Qué significa "plantea"?**
-- A) Resuelve
-- B) Presenta / provoca
-- C) Oculta
-- D) Elimina
+**1.** En "El abogado planteó una objeción", ¿qué significa "plantear"?
+- A) Resolver
+- B) Formular/expresar
+- C) Evitar
+- D) Ignorar
 
-**2. ¿Cuál es el complemento más típico de "plantear"?**
-- A) Una comida
-- B) Un problema / una cuestión
-- C) Un color
-- D) Un animal
-
-**3. "Plantearse algo" significa:**
-- A) Olvidar algo
-- B) Considerar / pensar en algo
-- C) Rechazar algo
-- D) Comprar algo
-
-**4. ¿Cuál es el sinónimo más adecuado de "plantear" en el sentido de "proponer"?**
-- A) Proponer / formular
-- B) Destruir
-- C) Esconder
-- D) Repetir
-
-**5. Completa: "La crisis _____ nuevos desafíos para el gobierno."**
+**2.** Completa: "El cambio climático ___ nuevos retos para la humanidad."
 - A) plantea
-- B) plantear
-- C) planteando
-- D) planteé
+- B) planta
+- C) planifica
+- D) planea
 
-**6. "¿Te has planteado estudiar otro idioma?" La estructura es:**
-- A) planteare + infinitivo
-- B) plantearse + algo (reflexivo)
-- C) plantear + complemento directo
-- D) planteare + que + subjuntivo
+**3.** ¿Qué significa "Me planteé dejar el trabajo"?
+- A) Dejé el trabajo inmediatamente.
+- B) Consideré la posibilidad de dejar el trabajo.
+- C) Me obligaron a dejar el trabajo.
+- D) Ya había dejado el trabajo.
 
-**7. ¿Cuál de estas frases usa "plantear" INCORRECTAMENTE?**
-- A) "Planteó la hipótesis en su tesis"
-- B) "Planteo el jardín con flores" (usar como plantar)
-- C) "Se planteó la necesidad de un cambio"
-- D) "El profesor planteó un ejercicio nuevo"
+**4.** ¿Cuál es un sinónimo de "plantear un problema"?
+- A) Resolver un problema
+- B) Formular un problema
+- C) Ignorar un problema
+- D) Olvidar un problema
 
-**8. "Plantear" en sentido de "planificar" se usa más en:**
-- A) Conversaciones informales
-- B) Contextos profesionales y académicos
-- C) Recetas de cocina
-- D) Deportes
+**5.** "La reunión planteó más dudas que certezas." ¿Es correcto?
+- A) Sí, significa que la reunión generó más dudas.
+- B) No, debería ser "planteaba".
+- C) No, "plantear" no se usa con "dudas".
+- D) Sí, pero solo en España.
 
-**9. ¿Qué forma reflexiva es correcta? "Yo _____ la posibilidad de irme."**
-- A) me planteé
-- B) se planteé
-- C) te planteé
-- D) nos planteé
+**6.** ¿Cuál de estas frases usa la forma reflexiva "plantearse"?
+- A) El profesor planteó un ejercicio.
+- B) Me planteé la posibilidad de viajar.
+- C) Plantearon nuevas normas.
+- D) Planteó su candidatura.
 
-**10. "El tema plantea controversia." ¿Puede sustituirse por "genera"?**
-- A) Sí, significado similar
-- B) No, significa lo contrario
-- C) No, "genera" solo se usa para objetos físicos
-- D) No, "plantea" es más formal
+**7.** ¿Cuál es el antónimo de "plantear" en el sentido de "resolver"?
+- A) Formular
+- B) Resolver
+- C) Proponer
+- D) Expresar
+
+**8.** Completa: "No sé cómo ___ este tema delicado."
+- A) plantear
+- B) plantar
+- C) planear
+- D) planificar
+
+**9.** "El proyecto plantea dificultades técnicas." ¿A quién afectan las dificultades?
+- A) Solo al que plantea
+- B) A quienes trabajan en el proyecto
+- C) A nadie
+- D) Solo al director
+
+**10.** ¿Cuál es la diferencia entre "plantear" y "proponer"?
+- A) Son exactamente iguales.
+- B) "Plantear" se centra en exponer; "proponer" en sugerir una solución.
+- C) "Plantear" es informal; "proponer" es formal.
+- D) No hay diferencia.
 
 ### 参考答案
 
 | 题号 | 答案 | 解析 |
 |------|------|------|
-| 1 | B | Plantear = presentar / provocar dudas |
-| 2 | B | El complemento típico es un problema o cuestión |
-| 3 | B | Plantearse = considerar, pensar en algo |
-| 4 | A | Proponer / formular son sinónimos en este contexto |
-| 5 | A | Presente, tercera persona singular |
-| 6 | B | Es estructura reflexiva: plantearse algo |
-| 7 | B | "Plantear" no significa "plantar" (sembrar) |
-| 8 | B | Se usa más en contextos profesionales y académicos |
-| 9 | A | Primera persona: me planteé |
-| 10 | A | Sí, "genera" es sinónimo en este contexto |
-
----
+| 1 | B | plantear = formular, expresar（陈述/表达） |
+| 2 | A | "plantear retos" = 带来挑战，是常见搭配 |
+| 3 | B | "plantearse" = 自问/考虑，尚未采取行动 |
+| 4 | B | formular（提出/表述）是 plantear 在此语境下的近义词 |
+| 5 | A | "plantear dudas" = 引发疑问，是正确用法 |
+| 6 | B | "plantearse" 是自反形式，表示自问/考虑 |
+| 7 | B | resolver（解决）是 plantear（提出/引发）的反义 |
+| 8 | A | "plantear un tema" = 提出一个话题 |
+| 9 | B | plantear 在此表示"引发"，困难影响项目参与者 |
+| 10 | B | plantear 侧重摆出/陈述；proponer 侧重建议/提议 |
 
 ## 🔗 相关词汇
 
 | 词汇 | 含义 | 关系 |
 |------|------|------|
-| proponer | 提议 | 近义词 |
-| formular | 表述、提出 | 近义词 |
-| suscitar | 引起 | 近义词 |
-| planteamiento | 提出、规划 | 派生名词 |
-| planta | 植物、平面图 | 同根词 |
-| plantar | 种植 | 易混淆词 |
-| resolver | 解决 | 反义词（针对"提出问题"义） |
+| proponer | 提议、建议 | 近义 |
+| formular | 提出、表述 | 近义 |
+| exponer | 阐述、展示 | 近义 |
+| resolver | 解决 | 反义 |
+| planteamiento | 提出、陈述 | 派生名词 |
+| planta | 平面图、方案 | 同根词 |

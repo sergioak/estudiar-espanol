@@ -6,150 +6,136 @@
 |------|------|
 | **单词** | **dilucidar** |
 | 音标 | [di.lu.θiˈðar] |
-| 词性 | v. tr. |
-| 核心释义 | 阐明、弄清楚、澄清 |
-
----
+| 词性 | v.tr. 及物动词（第一变位） |
+| 核心释义 | 阐明、澄清、弄清楚 |
 
 ## 🧠 记忆辅助
 
-- **联想记忆**：di-（分开）+ lucid-（来自拉丁语 lucidus "明亮的"，同根词 lúcido "清醒的"）。想象你把一束"光"照进黑暗的迷雾中，让一切变得"明亮清晰"——你正在"阐明"一个复杂的问题。
-- **词源补充**：拉丁语 dilucidare = dis-（完全）+ lucidare（使明亮，来自 lux "光"）。字面意思是"完全照亮"，引申为"阐明、澄清"。与英语 elucidate 同源。
-
----
+- **联想记忆**：dilucidar 与 lúcido（清醒的/清晰的）同根。想象在迷雾中（lucid- = 光/清晰）把事情"弄清楚"→ 阐明。dis-（分离）+ lucid（光）+ ar → 把光照进去，驱散黑暗 → 阐明真相。
+- **词源补充**：来自拉丁语 dilucidare（dis- 分离 + lucidus 明亮的/清晰的），字面意思是"使变得清晰"。与英语 elucidate（阐明）同源。
 
 ## ✏️ 核心用法
 
-**用法一：阐明/澄清（问题/疑点）**
-将一个复杂或模糊的问题解释清楚。正式书面用语。
+**1. dilucidar algo（弄清楚/阐明某事）**
+表示找到某个复杂问题的答案或真相。
 
-**用法二：弄清楚/查明（真相）**
-通过调查或分析找到真相。
+**2. 用于正式/学术语境**
+dilucidar 是较正式的词汇，常见于学术、法律和新闻写作中。
 
-**用法三：dilucidar si/qué/cómo = 弄清楚是否/什么/如何**
-后接疑问从句，表示弄清楚某个不确定的事项。
-
----
+**3. dilucidar si...（弄清楚是否...）**
+后接间接疑问句，表示调查或确认某事。
 
 ## 📝 例句模块
 
-**阐明/澄清：**
-1. **El informe dilucida las causas del accidente.**
-   报告阐明了事故的原因。
+**1.** La policía trabaja para dilucidar las causas del accidente.
+警方正在努力查明事故原因。
 
-2. **Es necesario dilucidar este punto antes de continuar.**
-   有必要在继续之前澄清这一点。
+**2.** Los científicos intentan dilucidar los misterios del universo.
+科学家们试图阐明宇宙的奥秘。
 
-3. **La investigación dilucidó los motivos del crimen.**
-   调查阐明了犯罪的动机。
+**3.** Es necesario dilucidar este punto antes de tomar una decisión.
+在做决定之前有必要弄清楚这一点。
 
-**弄清楚/查明：**
-4. **Los detectives intentan dilucidar quién cometió el asesinato.**
-   侦探们试图查明谁犯了谋杀罪。
+**4.** El informe dilucida las circunstancias del caso.
+报告阐明了案件的情况。
 
-5. **Todavía no se ha dilucidado la verdad sobre aquel suceso.**
-   关于那件事的真相尚未查明。
+**5.** Todavía no se ha dilucidado quién fue el responsable.
+还没有查明谁是责任人。
 
-**后接疑问从句：**
-6. **Quiero dilucidar si realmente ocurrió como dicen.**
-   我想弄清楚事情是否真的如他们所说。
+**6.** El debate ayudó a dilucidar las diferencias entre ambas posiciones.
+辩论有助于阐明两种立场之间的差异。
 
-7. **El comité debe dilucidar qué causó el fallo del sistema.**
-   委员会必须弄清楚是什么导致了系统故障。
+**7.** Los investigadores dilucidaron el origen del brote de la enfermedad.
+研究人员查明了疾病爆发的起源。
 
-8. **Los científicos trabajan para dilucidar cómo funciona este proceso.**
-   科学家们正在努力弄清楚这个过程是如何运作的。
-
----
+**8.** Necesitamos más datos para dilucidar esta cuestión.
+我们需要更多数据来弄清楚这个问题。
 
 ## 📋 习题模块
 
-**1. "Dilucidar un misterio" significa:**
-- A) Crear un misterio
-- B) Resolver / aclarar un misterio
-- C) Ocultar un misterio
-- D) Ignorar un misterio
-
-**2. ¿En qué registro lingüístico se usa más "dilucidar"?**
-- A) Lenguaje coloquial
-- B) Lenguaje formal y académico
-- C) Lenguaje infantil
-- D) Lenguaje deportivo
-
-**3. "Dilucidar" comparte raíz con:**
-- A) Lúcido / ilusión
-- B) Luna / luminoso
-- C) Dolor / delirio
-- D) Dinero / dividir
-
-**4. ¿Cuál es el sinónimo más adecuado de "dilucidar"?**
-- A) Esclarecer / aclarar
-- B) Confundir
+**1.** "Dilucidar" significa:
+- A) Confundir
+- B) Aclarar/hacer claro
 - C) Oscurecer
-- D) Complicar
+- D) Ignorar
 
-**5. Completa: "La comisión investigadora debe _____ los hechos."**
+**2.** Completa: "Los detectives trabajan para ___ el misterio."
 - A) dilucidar
-- B) dilucido
-- C) dilucidando
-- D) dilucidé
+- B) dilucidar a
+- C) dilucidar en
+- D) dilucidar por
 
-**6. "Dilucidar si..." es una estructura que introduce:**
-- A) Una afirmación
-- B) Una oración interrogativa indirecta
-- C) Una exclamación
-- D) Un imperativo
+**3.** ¿Cuál es un sinónimo de "dilucidar"?
+- A) Complicar
+- B) Esclarecer
+- C) Confundir
+- D) Embrollar
 
-**7. ¿Cuál de estas frases usa "dilucidar" INCORRECTAMENTE?**
-- A) "Dilucidar la verdad es su objetivo"
-- B) "Dilucido el café por la mañana" (como preparar)
-- C) "Los expertos dilucidaron el enigma"
-- D) "Quiero dilucidar qué ocurrió"
+**4.** "El profesor dilucidó las dudas de los estudiantes." ¿Qué hizo?
+- A) Creó más dudas.
+- B) Aclaró/resolvió las dudas.
+- C) Ignoró las dudas.
+- D) Cambió de tema.
 
-**8. ¿Cuál es el antónimo de "dilucidar"?**
-- A) Confundir / oscurecer
-- B) Aclarar
+**5.** ¿Cuál es el antónimo de "dilucidar"?
+- A) Aclarar
+- B) Confundir/embrollar
 - C) Explicar
-- D) Entender
+- D) Resolver
 
-**9. En pretérito indefinido: "El profesor _____ la duda de los alumnos."**
-- A) dilucidó
-- B) dilucidó
-- C) dilucidar
-- D) dilucida
+**6.** ¿En qué tipo de texto se usa más "dilucidar"?
+- A) Conversaciones informales
+- B) Textos académicos y periodísticos
+- C) Textos infantiles
+- D) Solo en poesía
 
-**10. "Dilucidar" es un verbo:**
-- A) Transitivo (necesita objeto directo)
-- B) Intransitivo
-- C) Reflexivo
-- D) Impersonal
+**7.** Completa: "El juez debe ___ los hechos antes de dictar sentencia."
+- A) dilucidar
+- B) diluir
+- C) delimitar
+- D) denunciar
+
+**8.** ¿Cuál es la diferencia entre "dilucidar" y "aclarar"?
+- A) Son exactamente iguales.
+- B) "Dilucidar" es más formal y se usa para asuntos complejos.
+- C) "Dilucidar" es más informal.
+- D) No hay diferencia.
+
+**9.** "Los científicos dilucidaron el origen de la vida." ¿Es correcto?
+- A) Sí, significa que explicaron/clarearon el origen.
+- B) No, debería ser "dilucidaron a".
+- C) No, "dilucidar" no se usa con conceptos científicos.
+- D) Sí, pero solo en textos religiosos.
+
+**10.** ¿Cuál es la forma nominal de "dilucidar"?
+- A) Dilucidación
+- B) Dilucidamiento
+- C) Dilucidez
+- D) Dilucidismo
 
 ### 参考答案
 
 | 题号 | 答案 | 解析 |
 |------|------|------|
-| 1 | B | Dilucidar = resolver / aclarar |
-| 2 | B | Es un verbo formal y académico |
-| 3 | A | Comparte raíz con lúcido (luc- = luz) |
-| 4 | A | Esclarecer / aclarar son sinónimos |
-| 5 | A | Infinitivo después de "debe" |
-| 6 | B | Introduce una interrogativa indirecta |
-| 7 | B | "Dilucidar" no significa "preparar" |
-| 8 | A | Confundir / oscurecer es lo contrario |
-| 9 | B | Pretérito: dilucidó |
-| 10 | A | Es transitivo |
-
----
+| 1 | B | dilucidar = aclarar, hacer claro（阐明/弄清楚） |
+| 2 | A | "dilucidar algo" 直接接宾语 |
+| 3 | B | esclarecer（查明/澄清）是最近的近义词 |
+| 4 | B | "dilucidar las dudas" = 解答疑问 |
+| 5 | B | confundir（混淆）是 dilucidar（阐明）的反义 |
+| 6 | B | dilucidar 是正式用词，常用于学术和新闻 |
+| 7 | A | "dilucidar los hechos" = 查明事实 |
+| 8 | B | dilucidar 更正式，常用于复杂问题 |
+| 9 | A | 正确用法，dilucidar 适合科学语境 |
+| 10 | A | dilucidación（阐明）是 dilucidar 的名词形式 |
 
 ## 🔗 相关词汇
 
 | 词汇 | 含义 | 关系 |
 |------|------|------|
+| lúcido | 清醒的、清晰的 | 同根词 |
+| esclarecer | 查明、澄清 | 近义 |
+| aclarar | 澄清、弄清楚 | 近义 |
+| elucidar | 阐明 | 近义（同源词） |
+| confundir | 混淆 | 反义 |
+| oscurecer | 使模糊/变暗 | 反义 |
 | dilucidación | 阐明 | 派生名词 |
-| lúcido | 清醒的、明晰的 | 同根词 |
-| elucidate | 阐明（英语同源词） | 跨语言同源 |
-| esclarecer | 澄清 | 近义词 |
-| aclarar | 搞清楚 | 迖义词 |
-| explicar | 解释 | 近义词 |
-| confundir | 混淆 | 反义词 |
-| oscurecer | 使模糊 | 反义词 |
