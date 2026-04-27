@@ -6,129 +6,153 @@
 |------|------|
 | **单词** | **concretar** |
 | 音标 | [kon.kɾeˈtar] |
-| 词性 | v.tr. |
-| 核心释义 | 具体化、明确、落实、使确定 |
+| 词性 | v. tr. / v. prnl. |
+| 核心释义 | 具体化、明确、确定、落实 |
+
+---
 
 ## 🧠 记忆辅助
 
-- **联想记忆**：concreto（具体的/混凝土）→ concretar = 使事情像混凝土一样"固定/确定"下来。从模糊变得具体。
-- **词源补充**：拉丁语 *concretus*（凝聚、合在一起），con-（一起）+ crescere（生长），原义为"长在一起、凝固"，引申为"具体化"。
+- **联想记忆**：concreto（具体的、混凝土）。想象你把一团模糊的想法像浇灌"混凝土"一样凝固成一个"具体"的形状——你正在"具体化"你的计划。
+- **词源补充**：拉丁语 concretus = con-（一起）+ crescere（生长）。原意是"一起生长、凝结"，引申为"使具体化、使确定"。英语 concrete（具体的、混凝土）同源。
+
+---
 
 ## ✏️ 核心用法
 
-1. **concretar algo**：把某事具体化、明确化。
-2. **concretarse en algo**：归结为、具体表现为某事。
-3. **concretar una cita/reunión**：敲定一个约会/会议时间。
+**用法一：具体化/明确（及物）**
+将模糊的想法、计划变得具体、明确。
 
-## 📝 例句
+**用法二：concretarse en = 归结为/限于**
+某个事物最终归结为某个方面或限于某个范围。
 
-**1.** Necesitamos concretar los detalles del plan.
-我们需要明确计划的细节。
+**用法三：concretar algo = 落实/确定**
+最终敲定某个安排或决定。
 
-**2.** ¿Podemos concretar la fecha de la reunión?
-我们能敲定会议日期吗？
+**用法四：concretarse a + infinitivo = 限于做某事**
+只做某事，不超出范围。
 
-**3.** La propuesta se concreta en tres puntos principales.
-这个提案具体体现为三个要点。
+---
 
-**4.** Es hora de concretar las ideas en acciones.
-是时候把想法落实为行动了。
+## 📝 例句模块
 
-**5.** Aún no se ha concretado el acuerdo entre las partes.
-各方之间的协议还没有敲定。
+**具体化/明确：**
+1. **Necesitamos concretar las ideas antes de presentar el proyecto.**
+   我们需要在提交项目之前把想法具体化。
 
-**6.** La profesora pidió a los estudiantes que concretaran sus respuestas.
-老师要求学生们把答案说得更具体。
+2. **El director pidió que concretaran los planes para la inauguración.**
+   主任要求他们把开幕式的计划具体化。
 
-**7.** El proyecto se concreta en la construcción de un nuevo hospital.
-这个项目具体表现为建造一所新医院。
+3. **Es hora de concretar las propuestas en acciones reales.**
+   是时候把提议落实为实际行动了。
 
-**8.** Quiero concretar una cita con el médico para la próxima semana.
-我想预约下周的医生。
+**归结为/限于：**
+4. **El problema se concreta en la falta de financiación.**
+   问题归结为缺乏资金。
 
-## 📋 习题
+5. **Sus quejas se concretan en tres puntos principales.**
+   他们的投诉归结为三个主要方面。
 
-**1.** Es necesario ______ los términos del contrato antes de firmarlo.
+**落实/确定：**
+6. **¿Ya concretaste la fecha de la reunión?**
+   你确定会议日期了吗？
+
+7. **Logramos concretar un acuerdo con la empresa.**
+   我们成功与公司达成了协议。
+
+**限于做某事：**
+8. **Se concretó a firmar los documentos sin hacer preguntas.**
+   他只是签了文件，没有提问。
+
+---
+
+## 📋 习题模块
+
+**1. "Concretar un plan" significa:**
+- A) Abandonar un plan
+- B) Hacerlo más específico / detallado
+- C) Olvidar un plan
+- D) Copiar un plan
+
+**2. "El asunto se concreta en..." significa:**
+- A) Se complica en...
+- B) Se resume / se reduce a...
+- C) Se expande a...
+- D) Desaparece en...
+
+**3. ¿Cuál es el sinónimo más adecuado de "concretar" en el sentido de "especificar"?**
+- A) Especificar / detallar
+- B) Generalizar
+- C) Ignorar
+- D) Repetir
+
+**4. Completa: "Hay que _____ los detalles del contrato."**
 - A) concretar
-- B) concierto
-- C) concluir
-- D) conciliar
+- B) concreto
+- C) concretando
+- D) concreté
 
-**2.** "concretar" es más cercano a:
-- A) 使模糊
-- B) 具体化/明确
-- C) 删除
-- D) 遗忘
+**5. "Concretarse en" es una estructura:**
+- A) Transitiva directa
+- B) Reflexiva / pronominal
+- C) Impersonal
+- D) Pasiva
 
-**3.** El problema se ______ en la falta de recursos.
-- A) concreta
-- B) concierta
-- C) concluye
-- D) concilia
+**6. ¿Cuál de estas frases usa "concretar" INCORRECTAMENTE?**
+- A) "Concretamos la cita para el viernes"
+- B) "Concreto el azúcar en el café" (como solidificar)
+- C) "Hay que concretar los objetivos"
+- D) "El problema se concreta en la falta de personal"
 
-**4.** ¿Cuál es el sinónimo más adecuado de "concretar"?
-- A) especificar / detallar
-- B) generalizar
-- C) abstraer
-- D) confundir
+**7. "Concretar" y "detallar" ¿son sinónimos en este contexto?**
+- A) Sí, muy cercanos en significado
+- B) No, son opuestos
+- C) No, "concretar" es solo para personas
+- D) No, "detallar" es solo para objetos
 
-**5.** Todavía no hemos ______ la fecha del viaje.
-- A) concretado
-- B) concertado
-- C) concluido
-- D) conciliado
+**8. ¿Cuál es el antónimo de "concretar"?**
+- A) Generalizar / abstraer
+- B) Especificar
+- C) Buscar
+- D) Encontrar
 
-**6.** "concretar" se diferencia de "conciertar" en que:
-- A) Son sinónimos exactos
-- B) concretar = 具体化；conciertar = 商定/协商
-- C) conciertar = 具体化；concretar = 商定
-- D) No tienen relación
+**9. En subjuntivo: "Espero que _____ los planes pronto."**
+- A) concrete
+- B) concreta
+- C) concretar
+- D) concretó
 
-**7.** La reunión se ______ en el lunes a las diez.
-- A) concreta
-- B) concierta
-- C) concluye
-- D) concilia
-
-**8.** ¿Cuál es la forma reflexiva más común?
-- A) concretar algo
-- B) concretarse en algo
-- C) concretarse con algo
-- D) concretarse de algo
-
-**9.** Los beneficios del programa se ______ en la mejora de la salud pública.
-- A) concretan
-- B) conciertan
-- C) concluyen
-- D) concilian
-
-**10.** "concreto" como adjetivo significa:
-- A) 模糊的
-- B) 具体的
-- C) 抽象的
-- D) 复杂的
+**10. "Se concretó a observar sin intervenir." Significa que:**
+- A) Participó activamente
+- B) Solo observó, no hizo nada más
+- C) Intervino directamente
+- D) Abandonó la observación
 
 ### 参考答案
 
 | 题号 | 答案 | 解析 |
 |------|------|------|
-| 1 | A | concretar los términos = 明确条款 |
-| 2 | B | concretar = 具体化/明确 |
-| 3 | A | se concreta en = 具体体现为 |
-| 4 | A | especificar/detallar = 明确/详细说明 |
-| 5 | A | concretado la fecha = 确定了日期 |
-| 6 | B | concretar = 具体化；conciertar = 商定 |
-| 7 | A | se concreta en = 定在（某个时间） |
-| 8 | B | concretarse en algo = 归结为/具体表现为 |
-| 9 | A | se concretan en = 具体表现为 |
-| 10 | B | concreto = 具体的 |
+| 1 | B | Concretar = hacer más específico / detallado |
+| 2 | B | "Concretarse en" = resumirse / reducirse a |
+| 3 | A | Especificar / detallar son sinónimos |
+| 4 | A | Infinitivo después de "hay que" |
+| 5 | B | Es estructura reflexiva / pronominal |
+| 6 | B | "Concretar" no significa "solidificar" |
+| 7 | A | Significado muy cercano |
+| 8 | A | Generalizar / abstraer es lo contrario |
+| 9 | A | Subjuntivo presente: concrete |
+| 10 | B | "Concretarse a" = limitarse a |
+
+---
 
 ## 🔗 相关词汇
 
 | 词汇 | 含义 | 关系 |
 |------|------|------|
-| el concreto | 混凝土 | 同根词 |
-| concreto/a | 具体的 | 派生形容词 |
-| concretamente | 具体地 | 派生副词 |
-| especificar | 明确说明 | 近义 |
-| concierto | 商定、音乐会 | 同根词（易混淆） |
+| concreto | 具体的、混凝土 | 同根词/派生形容词 |
+| concretización | 具体化 | 派生名词 |
+| especificar | 具体说明 | 近义词 |
+| detallar | 详述 | 近义词 |
+| precisar | 明确 | 近义词 |
+| generalizar | 概括 | 反义词 |
+| abstraer | 抽象化 | 反义词 |

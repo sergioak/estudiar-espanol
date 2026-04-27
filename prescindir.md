@@ -6,129 +6,148 @@
 |------|------|
 | **单词** | **prescindir** |
 | 音标 | [pɾes.θinˈðir] |
-| 词性 | v.intr. |
-| 核心释义 | 省去、放弃、不需要、排除 |
+| 词性 | v. intr. |
+| 核心释义 | 省去、放弃、不需要、摒弃 |
+
+---
 
 ## 🧠 记忆辅助
 
-- **联想记忆**：pre（在…之前）+ scindir（切割，源自拉丁语 scindere）。"提前切掉"→ 放弃、不需要某物。英语 rescind（撤销）同根。
-- **词源补充**：拉丁语 *praescindere*（提前切断），pre-（前）+ scindere（切），字面意为"提前割舍"。
+- **联想记忆**：pre-（之前）+ scindir（来自拉丁语 scindere "切割"）。想象你提前把某样东西"切掉/去掉"了——你选择"不需要"它，"放弃"它。
+- **词源补充**：拉丁语 praescindere = prae-（提前）+ scindere（切割）。字面意思是"提前切掉"，引申为"省去、不再依赖"。英语 rescind（废除）同根。
+
+---
 
 ## ✏️ 核心用法
 
-1. **prescindir de algo**：省去某物、不需要某物，最核心用法。
-2. **prescindir de alguien**：解雇某人、不再需要某人。
-3. **prescindir de + inf.**：不做某事也能行。
+**用法一：prescindir de = 省去/不需要**
+决定不使用或不需要某物。最核心的用法。
 
-## 📝 例句
+**用法二：prescindir de alguien = 解雇/让某人离开**
+委婉地表示不再需要某人的服务。
 
-**1.** No podemos prescindir de tu ayuda.
-我们不能缺少你的帮助。
+**用法三：prescindir de algo = 放弃/舍弃**
+主动选择不要某样东西。
 
-**2.** Prescindieron de sus servicios por recortes presupuestarios.
-由于预算削减，他们解雇了他。
+---
 
-**3.** Voy a prescindir del coche y usar el transporte público.
-我打算不用车，改用公共交通。
+## 📝 例句模块
 
-**4.** Es imposible prescindir de la tecnología en la vida moderna.
-现代生活中不可能不需要科技。
+**省去/不需要：**
+1. **No puedo prescindir de mi ordenador para trabajar.**
+   我工作不能没有电脑。
 
-**5.** Podemos prescindir de la introducción y ir directo al tema.
-我们可以省去引言，直接进入主题。
+2. **Prescindamos de formalidades y vayamos al grano.**
+   我们省去客套话，直奔主题吧。
 
-**6.** La empresa prescindió de varios empleados.
-公司裁掉了几个员工。
+3. **Es imposible prescindir de la tecnología en la vida moderna.**
+   现代生活中不可能不需要科技。
 
-**7.** No puedo prescindir de este medicamento.
-我不能不用这个药。
+4. **Podemos prescindir de este capítulo sin perder el sentido del libro.**
+   我们可以省略这一章而不影响全书的意思。
 
-**8.** Prescindamos de formalidades y hablemos directamente.
-我们别讲究礼节了，直接说吧。
+**解雇/让某人离开：**
+5. **La empresa prescindió de varios empleados por la crisis.**
+   公司因危机解雇了几名员工。
 
-## 📋 习题
+6. **El equipo prescindió del entrenador al final de la temporada.**
+   球队在赛季末解雇了教练。
 
-**1.** No podemos ______ de tu experiencia en este proyecto.
-- A) prescindir
-- B) decidir
-- C) dividir
-- D) resolver
+**放弃/舍弃：**
+7. **Decidió prescindir de lujos para ahorrar dinero.**
+   他决定放弃奢侈品以省钱。
 
-**2.** "prescindir de algo" es más cercano a:
-- A) 购买某物
-- B) 省去/不需要某物
-- C) 创造某物
-- D) 隐藏某物
+8. **No puedo prescindir de mi café matutino.**
+   我不能没有早上的咖啡。
 
-**3.** La empresa ______ de varios trabajadores por la crisis.
-- A) prescindió
-- B) decidió
-- C) dividió
-- D) resolvió
+---
 
-**4.** ¿Cuál es el sinónimo más adecuado de "prescindir de"?
-- A) necesitar
-- B) prescindir de / renunciar a
-- C) incluir
-- D) añadir
+## 📋 习题模块
 
-**5.** ¿Puedes ______ de los detalles y contarme lo esencial?
-- A) prescindir
-- B) decidir
-- C) dividir
-- D) resolver
+**1. "Prescindir de algo" significa:**
+- A) Necesitar algo urgentemente
+- B) Renunciar a algo / no necesitar algo
+- C) Buscar algo
+- D) Comprar algo
 
-**6.** "prescindir de alguien" puede significar:
-- A) 提拔某人
-- B) 解雇某人
-- C) 拥抱某人
-- D) 帮助某人
-
-**7.** No es fácil ______ de los lujos cuando estás acostumbrado a ellos.
-- A) prescindir
-- B) decidir
-- C) dividir
-- D) resolver
-
-**8.** ¿Cuál es la preposición que siempre acompaña a "prescindir"?
+**2. ¿Qué preposición siempre acompaña a "prescindir"?**
 - A) a
 - B) en
 - C) de
-- D) con
+- D) por
 
-**9.** El jefe decidió ______ de los servicios de la consultora.
+**3. "La empresa prescindió de sus servicios." ¿Qué significa?**
+- A) La empresa lo ascendió
+- B) La empresa lo despidió
+- C) La empresa lo contrató
+- D) La empresa lo formó
+
+**4. ¿Cuál es el sinónimo más adecuado de "prescindir de"?**
+- A) Renunciar a / prescindir de
+- B) Buscar
+- C) Necesitar
+- D) Agarrar
+
+**5. Completa: "No puedo _____ de tu ayuda."**
 - A) prescindir
-- B) decidir
-- C) dividir
-- D) resolver
+- B) prescindo
+- C) prescindiendo
+- D) prescindieron
 
-**10.** "prescindir" es lo opuesto de:
-- A) 排除
-- B) 需要/依赖
-- C) 忘记
-- D) 创造
+**6. "Prescindir" es un verbo:**
+- A) Transitivo directo
+- B) Intransitivo con preposición "de"
+- C) Reflexivo
+- D) Impersonal
+
+**7. ¿Cuál de estas frases usa "prescindir" INCORRECTAMENTE?**
+- A) "Prescindiré de tu ayuda"
+- B) "Prescindo el coche" (sin "de")
+- C) "No puedo prescindir de este libro"
+- D) "Prescindieron de él en el proyecto"
+
+**8. ¿Cuál es el antónimo de "prescindir de"?**
+- A) Necesitar / depender de
+- B) Olvidar
+- C) Recordar
+- D) Buscar
+
+**9. "Prescindir de lujos" es equivalente a:**
+- A) Comprar más lujos
+- B) Renunciar a los lujos
+- C) Soñar con lujos
+- D) Heredar lujos
+
+**10. En subjuntivo presente: "Espero que no _____ de mí."**
+- A) prescinda
+- B) prescinde
+- C) prescindir
+- D) prescindió
 
 ### 参考答案
 
 | 题号 | 答案 | 解析 |
 |------|------|------|
-| 1 | A | prescindir de tu experiencia = 不需要你的经验 |
-| 2 | B | prescindir de = 省去/不需要 |
-| 3 | A | prescindió de = 解雇了（过去时） |
-| 4 | B | renunciar a 是最接近的同义词 |
-| 5 | A | prescindir de los detalles = 省去细节 |
-| 6 | B | prescindir de alguien = 解雇某人 |
-| 7 | A | prescindir de los lujos = 放弃奢侈品 |
-| 8 | C | prescindir 总是搭配 de |
-| 9 | A | prescindir de los servicios = 不再需要服务 |
-| 10 | B | prescindir 的反义是需要/依赖 |
+| 1 | B | Prescindir de = renunciar / no necesitar |
+| 2 | C | Siempre "prescindir DE" |
+| 3 | B | "Prescindir de alguien" = despedirlo |
+| 4 | A | Renunciar a es el sinónimo más cercano |
+| 5 | A | Infinitivo después de "poder" |
+| 6 | B | Intransitivo, siempre con "de" |
+| 7 | B | Falta la preposición "de" |
+| 8 | A | Necesitar / depender de es lo contrario |
+| 9 | B | Prescindir de lujos = renunciar a ellos |
+| 10 | A | Subjuntivo presente: prescinda |
+
+---
 
 ## 🔗 相关词汇
 
 | 词汇 | 含义 | 关系 |
 |------|------|------|
-| renunciar a | 放弃、辞去 | 近义 |
-| eliminar | 消除、排除 | 近义 |
-| rescindir | 撤销、废除 | 同根词 |
-| necesario | 必要的 | 反义 |
-| imprescindible | 不可缺少的 | 反义（同根否定前缀） |
+| renunciar | 放弃 | 近义词 |
+| eliminar | 消除 | 迖义词 |
+| despedir | 解雇 | 近义词（针对人） |
+| necesitar | 需要 | 反义词 |
+| depender de | 依赖 | 反义词 |
+| imprescindible | 不可或缺的 | 反义派生词 |

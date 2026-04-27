@@ -6,129 +6,149 @@
 |------|------|
 | **单词** | **optar** |
 | 音标 | [opˈtar] |
-| 词性 | v.intr. |
-| 核心释义 | 选择、决定 |
+| 词性 | v. intr. |
+| 核心释义 | 选择、抉择 |
+
+---
 
 ## 🧠 记忆辅助
 
-- **联想记忆**：optar = opt（选择）→ 英语 option（选项）正是同源词。"optar por algo" = "为某事投票/选择某事"。
-- **词源补充**：拉丁语 *optare*（选择、渴望），英语 option, optional, optative 均同源。
+- **联想记忆**：opt- 让人联想到英语 option（选项）。optar = 在多个"选项"中做出选择。想象你面前有三条路，你必须"选择"其中一条。
+- **词源补充**：拉丁语 optare = "渴望、选择"。与英语 option、optimal 同源。西班牙语中保留了"选择"的核心含义。
+
+---
 
 ## ✏️ 核心用法
 
-1. **optar por + 名词/inf.**：选择某事/做某事，最常用搭配。
-2. **optar a + 名词**：有资格争取某物（如职位、奖项）。
-3. **optar entre A y B**：在 A 和 B 之间选择。
+**用法一：optar por = 选择（某个选项）**
+在多个可能性中做出决定。最常用的结构。
 
-## 📝 例句
+**用法二：optar a = 争取/有资格获得**
+表示有资格竞争某个职位、奖项或机会。
 
-**1.** Opté por quedarme en casa en lugar de salir.
-我选择待在家里而不是出去。
+**用法三：optar entre = 在……之间选择**
+在两个或多个选项之间做出选择。
 
-**2.** Muchos jóvenes optan por estudiar en el extranjero.
-很多年轻人选择出国留学。
+---
 
-**3.** Ella optó por la opción más económica.
-她选择了最经济的选项。
+## 📝 例句模块
 
-**4.** ¿Por cuál de los dos candidatos optarás?
-你会选择哪位候选人？
+**optar por：**
+1. **Opté por quedarme en casa en lugar de salir.**
+   我选择待在家里而不是出去。
 
-**5.** El equipo puede optar al campeonato este año.
-这支球队今年有资格争夺冠军。
+2. **La empresa optó por reducir los costes.**
+   公司选择了削减成本。
 
-**6.** Opté entre aceptar la oferta o buscar otra oportunidade.
-我在接受这个offer和寻找其他机会之间做选择。
+3. **Muchos jóvenes optan por estudiar en el extranjero.**
+   很多年轻人选择出国留学。
 
-**7.** Finalmente optó por renunciar y empezar un negocio propio.
-最终他选择辞职创业。
+4. **¿Por cuál de las dos opciones optarías?**
+   你会选择这两个选项中的哪一个？
 
-**8.** Los estudiantes pueden optar entre varias especialidades.
-学生们可以在几个专业之间选择。
+**optar a：**
+5. **Este alumno puede optar a una beca.**
+   这个学生有资格申请奖学金。
 
-## 📋 习题
+6. **La película opta al premio Mejor Dirección.**
+   这部电影角逐最佳导演奖。
 
-**1.** Después de pensarlo mucho, ______ por aceptar el trabajo.
-- A) opté
-- B) optó
-- C) optamos
-- D) optaron
+7. **Varios candidatos optan al puesto de director.**
+   多名候选人竞争主任职位。
 
-**2.** "optar por" es más cercano a:
-- A) 放弃
-- B) 选择
-- C) 忘记
-- D) 阻止
+**optar entre：**
+8. **Tienes que optar entre estudiar o trabajar.**
+   你必须在学习和工作之间做出选择。
 
-**3.** Los candidatos ______ a la presidencia del país.
-- A) optan por
-- B) optan a
-- C) optan entre
-- D) optan de
+---
 
-**4.** ¿Cuál es el sinónimo más adecuado de "optar por"?
-- A) decidirse por / elegir
-- B) rechazar
-- C) abandonar
-- D) perder
+## 📋 习题模块
 
-**5.** ¿______ cuál de las dos opciones prefieres?
-- A) Opta por
-- B) Opta a
-- C) Opta entre
-- D) Opta de
+**1. "Optar por algo" significa:**
+- A) Rechazar algo
+- B) Elegir algo entre varias opciones
+- C) Olvidar algo
+- D) Crear algo
 
-**6.** "optar a un puesto" significa:
-- A) 放弃一个职位
-- B) 争取一个职位
-- C) 创造一个职位
-- D) 删除一个职位
+**2. ¿Qué preposición se usa con "optar" para expresar "elegir"?**
+- A) a
+- B) por
+- C) en
+- D) de
 
-**7.** Mucha gente ______ por trabajar desde casa después de la pandemia.
-- A) opta
-- B) elige
-- C) decide
-- D) Todas son correctas
+**3. "Optar a un premio" significa:**
+- A) Ganar un premio
+- B) Competir / aspirar a un premio
+- C) Rechazar un premio
+- D) Entregar un premio
 
-**8.** No sabía si ______ por medicina o por derecho.
-- A) optar
-- B) elegir
-- C) decidir
-- D) Todas son correctas
+**4. ¿Cuál es el sinónimo más adecuado de "optar por"?**
+- A) Elegir / decidir
+- B) Rechazar
+- C) Dudar
+- D) Olvidar
 
-**9.** El alumno ______ por no presentarse al examen.
-- A) optó
+**5. Completa: "Los estudiantes _____ entre varias especialidades."**
+- A) optan
+- B) optar
+- C) optando
+- D) opté
+
+**6. ¿Cuál de estas frases usa "optar" INCORRECTAMENTE?**
+- A) "Opté por la opción más barata"
+- B) "Opto el libro de la estantería" (como coger)
+- C) "Puede optar a la beca"
+- D) "Optamos por esperar"
+
+**7. "Optar" es un verbo:**
+- A) Transitivo
+- B) Intransitivo (necesita preposición para el complemento)
+- C) Reflexivo
+- D) Impersonal
+
+**8. ¿Cuál es la forma correcta en subjuntivo presente? "Espero que _____ por la mejor opción."**
+- A) opte
 - B) opta
 - C) optar
-- D) optamos
+- D) optó
 
-**10.** "optar" es un verbo:
-- A) transitivo
-- B) intransitivo
-- C) reflexivo
-- D) impersonal
+**9. "Optar por" y "decidirse por" ¿son sinónimos?**
+- A) Sí, significado muy similar
+- B) No, significan lo contrario
+- C) No, "optar" es más informal
+- D) No, "decidirse" es más formal
+
+**10. ¿Cuál es el antónimo más adecuado de "optar por"?**
+- A) Rechazar / descartar
+- B) Aceptar
+- C) Buscar
+- D) Encontrar
 
 ### 参考答案
 
 | 题号 | 答案 | 解析 |
 |------|------|------|
-| 1 | A | opté por = 我选择了（第一人称过去时） |
-| 2 | B | optar por = 选择 |
-| 3 | B | optan a = 有资格争取 |
-| 4 | A | decidirse por / elegir = 选择 |
-| 5 | C | optar entre = 在…之间选择 |
-| 6 | B | optar a un puesto = 争取一个职位 |
-| 7 | D | optar por / elegir / decidir 都可以 |
-| 8 | D | 三个动词在此语境中都正确 |
-| 9 | A | optó por no presentarse = 选择不参加 |
-| 10 | B | optar 是不及物动词，需搭配介词 |
+| 1 | B | Optar por = elegir entre varias opciones |
+| 2 | B | "Optar por" es la estructura para "elegir" |
+| 3 | B | Optar a = competir / aspirar a algo |
+| 4 | A | Elegir / decidir son sinónimos |
+| 5 | A | Presente, tercera persona plural: optan |
+| 6 | B | "Optar" no significa "coger/tomar" físicamente |
+| 7 | B | Es intransitivo, necesita preposición |
+| 8 | A | Subjuntivo presente: opte |
+| 9 | A | Significado muy similar |
+| 10 | A | Rechazar / descartar es lo contrario |
+
+---
 
 ## 🔗 相关词汇
 
 | 词汇 | 含义 | 关系 |
 |------|------|------|
-| la opción | 选项、选择 | 派生名词 |
-| opcional | 可选的 | 派生形容词 |
-| elegir | 选择 | 近义 |
-| decidirse por | 决定选择 | 近义 |
-| el optante | 选择者、候选人 | 派生名词 |
+| opción | 选项 | 派生名词 |
+| óptimo | 最佳的 | 同根词 |
+| elegir | 选择 | 近义词 |
+| decidirse | 决定 | 近义词 |
+| escoger | 挑选 | 近义词 |
+| rechazar | 拒绝 | 反义词 |
+| descartar | 排除 | 反义词 |

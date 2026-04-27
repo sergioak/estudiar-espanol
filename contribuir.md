@@ -5,130 +5,153 @@
 | 项目 | 内容 |
 |------|------|
 | **单词** | **contribuir** |
-| 音标 | [kon.tɾi.βuir] |
-| 词性 | v.tr./intr. |
-| 核心释义 | 贡献、促成、捐助 |
+| 音标 | [kon.tɾi.βuˈir] |
+| 词性 | v. intr. / v. tr. |
+| 核心释义 | 贡献、促成、有助于、捐款 |
+
+---
 
 ## 🧠 记忆辅助
 
-- **联想记忆**：con（一起）+ tribuir（给予/分配，源自 tribus = 部落）。"部落一起给"→ 每个人贡献一份力量。英语 contribute 也是同源。
-- **词源补充**：拉丁语 *contribuere*（con- 共同 + tribuere 分配），原义为"共同缴纳/分配"。
+- **联想记忆**：con-（一起）+ tribu-（部落 tribe）+ -ir。想象一个"部落"里的人"一起"出力——每个人都在"贡献"自己的力量，共同促成某件事。
+- **词源补充**：拉丁语 contribuere = con-（一起）+ tribuere（分配、给予）。原意是"一起给予"，引申为"贡献、促成"。与英语 contribute 同源。
+
+---
 
 ## ✏️ 核心用法
 
-1. **贡献某物**：contribuir algo，提供资源、知识等。
-2. **促成/有助于**：contribuir a + inf. / a + sustantivo，有助于达成某个结果。
-3. **捐助/捐款**：contribuir con dinero/recursos，提供经济支持。
+**用法一：贡献/有助于（a/en + 名词/动词原形）**
+某事物对某个结果有帮助或促进作用。常用结构：contribuir a/en algo。
 
-## 📝 例句
+**用法二：捐献/出资（con + 名词）**
+为某个目的提供金钱或资源。
 
-**1.** Todos debemos contribuir al bienestar de la comunidad.
-我们都应该为社区的福祉做贡献。
+**用法三：投稿/供稿**
+为杂志、报纸等媒体撰写文章。
 
-**2.** Su investigación contribuyó a encontrar la cura.
-他的研究促成了找到治疗方法。
+**用法四：contribuir a + infinitivo = 有助于做某事**
+强调帮助达成某个目标。
 
-**3.** Cada ciudadano contribuye con sus impuestos al funcionamiento del país.
-每个公民通过税收为国家运转做贡献。
+---
 
-**4.** El mal tiempo contribuyó a la cancelación del evento.
-恶劣天气促成了活动的取消。
+## 📝 例句模块
 
-**5.** ¿Puedes contribuir con algo al proyecto?
-你能为这个项目贡献点什么吗？
+**贡献/有助于：**
+1. **El ejercicio contribuye a mejorar la salud.**
+   运动有助于改善健康。
 
-**6.** La tecnología ha contribuido enormemente al avance de la medicina.
-科技极大地促进了医学的进步。
+2. **Su investigación contribuyó al avance de la medicina.**
+   他的研究促进了医学的进步。
 
-**7.** Contribuir a la sociedad es una responsabilidad de todos.
-为社会做贡献是每个人的责任。
+3. **Todos debemos contribuir al bienestar de la comunidad.**
+   我们都应该为社区的福祉做出贡献。
 
-**8.** Muchos voluntarios contribuyeron con su tiempo y esfuerzo.
-许多志愿者贡献了他们的时间和精力。
+4. **La educación contribuye a reducir la pobreza.**
+   教育有助于减少贫困。
 
-## 📋 习题
+**捐献：**
+5. **Muchas empresas contribuyeron con dinero para la reconstrucción.**
+   许多企业捐款用于重建。
 
-**1.** Este programa ______ a reducir la contaminación.
+6. **Contribuyo mensualmente a una ONG.**
+   我每个月给一个非政府组织捐款。
+
+**投稿：**
+7. **La profesora contribuye regularmente a revistas científicas.**
+   这位教授定期为科学杂志投稿。
+
+8. **Varios expertos contribuyeron con artículos al libro.**
+   多位专家为这本书撰写了文章。
+
+---
+
+## 📋 习题模块
+
+**1. "El tabaco contribuye al desarrollo de enfermedades respiratorias." ¿Qué significa "contribuye"?**
+- A) Previene
+- B) Ayuda / favorece
+- C) Cura
+- D) Elimina
+
+**2. ¿Qué preposición sigue típicamente a "contribuir" cuando significa "ayudar a"?**
+- A) por
+- B) a
+- C) con
+- D) de
+
+**3. "Contribuir con dinero" significa:**
+- A) Pedir dinero prestado
+- B) Donar / aportar dinero
+- C) Gastar dinero
+- D) Robar dinero
+
+**4. ¿Cuál es el sinónimo más adecuado de "contribuir" en el sentido de "ayudar"?**
+- A) Colaborar / cooperar
+- B) Impedir
+- C) Destruir
+- D) Ignorar
+
+**5. Completa: "La lluvia _____ a la escasez de agua."**
 - A) contribuye
-- B) distribuye
-- C) atribuye
-- D) constituye
+- B) contribuir
+- C) contribuyendo
+- D) contribuí
 
-**2.** "contribuir a algo" es más cercano a:
-- A) 从某事中提取
-- B) 有助于/促成某事
-- C) 阻止某事
-- D) 忽略某事
+**6. "Contribuir" es:**
+- A) Siempre transitivo
+- B) Siempre intransitivo
+- C) Puede ser transitivo o intransitivo según el contexto
+- D) Ni transitivo ni intransitivo
 
-**3.** Los científicos ______ enormemente al conocimiento humano.
-- A) contribuyen
-- B) distribuyen
-- C) atribuyen
-- D) resuelven
+**7. ¿Cuál de estas frases usa "contribuir" INCORRECTAMENTE?**
+- A) "Contribuyó al éxito del proyecto"
+- B) "Contribuí la carta a la mesa" (como poner)
+- C) "Contribuyo con tiempo voluntario"
+- D) "Muchos factores contribuyen a este resultado"
 
-**4.** ¿Cuál es el sinónimo más adecuado de "contribuir"?
-- A) distribuir
-- B) aportar
-- C) retirar
-- D) quitar
+**8. En "contribuir a + infinitivo", ¿qué tiempo verbal se usa después de "a"?**
+- A) Subjuntivo
+- B) Infinitivo
+- C) Indicativo
+- D) Imperativo
 
-**5.** Ella ______ con dinero para la construcción del hospital.
-- A) contribuyó
-- B) distribuyó
-- C) atribuyó
-- D) resolvió
+**9. "El cambio de actitud contribuye a mejorar las relaciones." Sustituye "contribuye a" por:**
+- A) "ayuda a" — sí, significado similar
+- B) "impide" — significado opuesto
+- C) "destruye" — significado opuesto
+- D) "olvida" — no tiene sentido
 
-**6.** "contribuir" puede significar tanto "贡献" como:
-- A) 阻碍
-- B) 捐助
-- C) 抢夺
-- D) 隐藏
-
-**7.** La falta de sueño ______ a la disminución de la productividad.
-- A) contribuye
-- B) distribuye
-- C) atribuye
-- D) resuelve
-
-**8.** ¿Cuál es la estructura correcta para "有助于做某事"?
-- A) contribuir + infinitivo
-- B) contribuir a + infinitivo
-- C) contribuir de + infinitivo
-- D) contribuir con + infinitivo
-
-**9.** Muchas personas ______ voluntariamente a organizaciones benéficas.
-- A) contribuyen
-- B) distribuyen
-- C) atribuyen
-- D) constituyen
-
-**10.** ¿Cuál de estas palabras NO comparte raíz con "contribuir"?
-- A) distribuir
-- B) atribuir
-- C) constituir
-- D) resolver
+**10. ¿Cuál es la forma correcta del pretérito indefinido? "Los voluntarios _____ con su tiempo."**
+- A) contribuyeron
+- B) contribuyeron
+- C) contribuireron
+- D) contribuyeron
 
 ### 参考答案
 
 | 题号 | 答案 | 解析 |
 |------|------|------|
-| 1 | A | contribuye a reducir = 有助于减少 |
-| 2 | B | contribuir a = 有助于/促成 |
-| 3 | A | contribuyen al conocimiento = 为知识做贡献 |
-| 4 | B | aportar = 贡献（近义词） |
-| 5 | A | contribuyó con dinero = 捐了钱 |
-| 6 | B | contribuir 也有"捐助"之意 |
-| 7 | A | contribuye a la disminución = 促成下降 |
-| 8 | B | contribuir a + inf. = 有助于做某事 |
-| 9 | A | contribuyen = 捐助/贡献 |
-| 10 | D | resolver 词根不同；其他都含 -tribuir |
+| 1 | B | Contribuir = ayudar, favorecer |
+| 2 | B | "Contribuir a" es la estructura más común |
+| 3 | B | Contribuir con dinero = donar / aportar |
+| 4 | A | Colaborar / cooperar son sinónimos |
+| 5 | A | Presente, tercera persona singular |
+| 6 | C | Puede ser transitivo o intransitivo |
+| 7 | B | "Contribuir" no significa "poner/colocar" |
+| 8 | B | Se usa infinitivo: contribuir a + infinitivo |
+| 9 | A | "Ayuda a" es sinónimo en este contexto |
+| 10 | B | Pretérito: contribuyeron (cambio de u→uy) |
+
+---
 
 ## 🔗 相关词汇
 
 | 词汇 | 含义 | 关系 |
 |------|------|------|
-| aportar | 贡献、提供 | 近义 |
-| distribuir | 分配、分发 | 同根词 |
-| atribuir | 归因于 | 同根词 |
-| la contribución | 贡献、捐款 | 派生名词 |
-| contribuyente | 纳税人、贡献者 | 派生名词 |
+| contribución | 贡献、捐款 | 派生名词 |
+| contribuyente | 纳税人、贡献者 | 派生名词/形容词 |
+| aportar | 提供、贡献 | 近义词 |
+| colaborar | 合作 | 近义词 |
+| cooperar | 合作 | 近义词 |
+| obstaculizar | 阻碍 | 反义词 |
+| impedir | 阻止 | 反义词 |

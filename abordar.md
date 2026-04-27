@@ -6,129 +6,152 @@
 |------|------|
 | **单词** | **abordar** |
 | 音标 | [a.βorˈðar] |
-| 词性 | v.tr. |
-| 核心释义 | 着手处理、登上（船/飞机）、搭讪 |
+| 词性 | v. tr. / v. intr. |
+| 核心释义 | 着手处理、登上（船/飞机）、靠近某人 |
+
+---
 
 ## 🧠 记忆辅助
 
-- **联想记忆**：a + bordar（绣花）。想象你在船边（bordo = 船舷），"登上"船后开始"着手"处理船上的事务。bordo 本身来自"板/边"，abordar = 从边上登上去。
-- **词源补充**：源自拉丁语 *ab + bordus*（船边），原义为"靠岸登船"，引申为"开始处理某事"。
+- **联想记忆**：a-（朝向）+ bord-（边缘，来自法语 bord "船舷"）+ -ar。想象你走向船的边缘，准备"登上"一艘船，引申为"着手处理"一个问题——就像你登上一艘未知的船去探索。
+- **词源补充**：源自法语 aborder（靠岸、登上），而法语 bord 意为"边缘、船舷"。英语 board（登机）同源。
+
+---
 
 ## ✏️ 核心用法
 
-1. **着手处理（问题/话题）**：表示开始研究、讨论或解决某个议题。
-2. **登上（交通工具）**：登上船、飞机等，正式用语。
-3. **搭讪/接近某人**：主动走上去与人交谈。
+**用法一：着手处理（问题/话题）**
+指正式开始讨论或解决某个复杂的问题或主题。常用于书面语和正式场合。
 
-## 📝 例句
+**用法二：登上（交通工具）**
+指登上船、飞机等大型交通工具。正式用语，日常口语更常用 subirse a。
 
-**1.** Vamos a abordar este problema desde otra perspectiva.
-我们换个角度来处理这个问题。
+**用法三：靠近/接近某人**
+指向某人走去并开始交谈，常带有目的性。
 
-**2.** El informe aborda la crisis climática con datos actualizados.
-报告用最新数据来探讨气候危机。
+**用法四：突袭/攻击（军事用语）**
+指强行登上敌方船只进行攻击。
 
-**3.** Los pasajeros abordaron el avión con retraso.
-乘客们延误登机了。
+---
 
-**4.** Es necesario abordar el tema de la educación lo antes necesario.
-有必要尽快着手处理教育问题。
+## 📝 例句模块
 
-**5.** Un desconocido me abordó en la calle para pedirme información.
-一个陌生人在街上搭讪我问路。
+**着手处理：**
+1. **El informe aborda el problema del cambio climático desde una perspectiva nueva.**
+   这份报告从新角度着手处理气候变化问题。
 
-**6.** El capitán abordó el buque enemigo durante la batalla.
-战斗中船长登上了敌船。
+2. **Es necesario abordar este tema con seriedad.**
+   有必要认真着手处理这个话题。
 
-**7.** La profesora abordó la cuestión de la desigualdad social.
-教授探讨了社会不平等的问题。
+3. **La profesora abordó las causas de la desigualdad social en su conferencia.**
+   教授在讲座中着手分析了社会不平等的原因。
 
-**8.** No sé cómo abordar esta situación tan delicada.
-我不知道如何处理这么微妙的局面。
+**登上交通工具：**
+4. **Los pasajeros abordaron el avión a las ocho de la mañana.**
+   乘客们在早上八点登上了飞机。
 
-## 📋 习题
+5. **Abordamos el barco en el puerto de Barcelona.**
+   我们在巴塞罗那港口登上了船。
 
-**1.** El gobierno decidió ______ el problema del desempleo juvenil.
-- A) abandonar
-- B) abordar
-- C) bordar
-- D) desbordar
+**靠近某人：**
+6. **Un desconocido me abordó en la calle para pedirme dinero.**
+   一个陌生人在街上靠近我，向我要钱。
 
-**2.** Los pasajeros ______ el tren a las ocho de la mañana.
-- A) abordaron
-- B) abordan
-- C) bordaron
-- D) bordan
+7. **Decidí abordar al director para hablarle del proyecto.**
+   我决定去找校长谈这个项目。
 
-**3.** ¿Quién va a ______ este tema en la reunión de mañana?
-- A) abordar
-- B) embarcar
-- C) montar
-- D) subir
+**军事/突袭：**
+8. **La armada abordó el buque enemigo durante la noche.**
+   海军在夜间突袭了敌舰。
 
-**4.** El artículo ______ las causas de la inflación de manera muy clara.
-- A) borda
-- B) aborda
-- C) desborda
-- D) encierra
+---
 
-**5.** "abordar un problema" es más cercano a:
-- A) 忽略问题
-- B) 着手处理问题
-- C) 创造问题
-- D) 遗忘问题
+## 📋 习题模块
 
-**6.** El periodista ______ al ministro después de la conferencia.
-- A) abordó
-- B) bordó
-- C) subió
-- D) embarcó
+**1. ¿Cuál de las siguientes opciones explica mejor el significado de "abordar un problema"?**
+- A) Ignorar un problema
+- B) Comenzar a tratar o resolver un problema
+- C) Crear un problema nuevo
+- D) Posponer un problema
 
-**7.** ¿Cuál es el antónimo más adecuado de "abordar (un tema)"?
-- A) tratar
-- B) plantear
-- C) ignorar / eludir
-- D) discutir
+**2. En la frase "Los turistas abordaron el crucero", ¿qué significa "abordaron"?**
+- A) Compraron
+- B) Subieron a / se embarcaron en
+- C) Abandonaron
+- D) Observaron
 
-**8.** No debes ______ a extraños por la noche.
-- A) bordar
-- B) desbordar
+**3. "Un periodista abordó al ministro después de la rueda de prensa." ¿Qué acción describe?**
+- A) Agredió al ministro
+- B) Se acercó al ministro para hablarle
+- C) Ignoró al ministro
+- D) Entrevistó al ministro por teléfono
+
+**4. ¿Cuál es el sinónimo más adecuado de "abordar" en el sentido de "tratar un tema"?**
+- A) Evitar
+- B) Tratar / plantear
+- C) Olvidar
+- D) Repetir
+
+**5. Completa: "El artículo _____ los efectos de la pandemia en la economía."**
+- A) aborda
+- B) abordó
 - C) abordar
-- D) embarcar
+- D) abordando
 
-**9.** "El barco fue abordado por piratas." En este contexto, abordar significa:
-- A) 制造
-- B) 登上/强行登船
-- C) 沉没
-- D) 修理
+**6. ¿Cuál de estos contextos es MÁS formal para usar "abordar"?**
+- A) Una conversación entre amigos
+- B) Un informe académico
+- C) Un mensaje de WhatsApp
+- D) Una lista de la compra
 
-**10.** El equipo de investigación ______ la hipótesis desde múltiples ángulos.
-- A) borda
-- B) aborda
-- C) desborda
-- D) embarca
+**7. "Abordar" en sentido militar significa:**
+- A) Defender
+- B) Atacar / asaltar (un barco)
+- C) Escoltar
+- D) Navegar
+
+**8. ¿Cuál es la forma verbal correcta para: "Nosotros _____ el tema ayer"?**
+- A) abordamos
+- B) abordamos
+- C) abordamos
+- D) abordamos
+
+**9. ¿Cuál NO es un significado de "abordar"?**
+- A) Subir a un avión
+- B) Tratar un tema
+- C) Cocinar un plato
+- D) Acercarse a alguien
+
+**10. Relaciona: "abordar" y "subirse a" ¿son sinónimos en qué contexto?**
+- A) Al hablar de un problema
+- B) Al subir a un medio de transporte
+- C) Al saludar a alguien
+- D) Nunca son sinónimos
 
 ### 参考答案
 
 | 题号 | 答案 | 解析 |
 |------|------|------|
-| 1 | B | abordar el problema = 着手处理问题 |
-| 2 | A | abordaron el tren = 登上了火车（过去时） |
-| 3 | A | abordar este tema = 处理这个话题 |
-| 4 | B | aborda = 探讨/处理（第三人称单数） |
-| 5 | B | abordar un problema = 着手处理问题 |
-| 6 | A | abordó al ministro = 搭讪/接近部长 |
-| 7 | C | 反义词是忽略或回避 |
-| 8 | C | abordar a extraños = 搭讪陌生人 |
-| 9 | B | 在海盗语境中意为强行登船 |
-| 10 | B | aborda la hipótesis = 探讨假设 |
+| 1 | B | "Abordar un problema" significa comenzar a tratarlo o resolverlo |
+| 2 | B | En contexto de transporte, abordar = subirse a / embarcarse |
+| 3 | B | "Abordar a alguien" = acercarse a esa persona para hablarle |
+| 4 | B | Tratar / plantear son sinónimos en este contexto |
+| 5 | A | Presente de indicativo, tercera persona singular |
+| 6 | B | "Abordar" es más formal, propio de textos académicos |
+| 7 | B | En contexto militar, abordar = asaltar un barco enemigo |
+| 8 | A | Pretérito indefinido, primera persona plural: abordamos |
+| 9 | C | "Cocinar" no tiene relación con abordar |
+| 10 | B | Son sinónimos cuando se refieren a subir a un transporte |
+
+---
 
 ## 🔗 相关词汇
 
 | 词汇 | 含义 | 关系 |
 |------|------|------|
-| bordo | 船舷、船上 | 同根词 |
-| embarcar | 登船、装船 | 近义 |
-| desbordar | 溢出、超出 | 同根词 |
-| el planteamiento | 提出的方式、方案 | 近义（话题层面） |
-| el abordaje | 登船、着手处理 | 派生名词 |
+| abordaje | 登船、突袭 | 派生名词 |
+| bordar | 刺绣（形似但无关） | 易混淆词 |
+| plantear | 提出（问题） | 近义词 |
+| tratar | 处理、对待 | 近义词 |
+| embarcarse | 上船 | 近义词 |
+| desembarcar | 下船 | 反义词 |
