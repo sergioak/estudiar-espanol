@@ -1,40 +1,109 @@
 # Drástico,ca
 
-## 1. 📖 基础信息
+## 📖 基础信息
 
 | 项目 | 内容 |
 |------|------|
-| **单词** | Drástico,ca |
+| **单词** | **Drástico,ca** |
 | **词性** | 短语/介词/其他 |
 | **核心释义** | 厉害的，烈性的 |
 
-## 2. 🧠 记忆辅助
+## 🧠 记忆辅助
 
-**联想记忆：**  
-结合词形和释义进行联想记忆，具体方法因词而异。
+- **联想记忆**：记忆：结合词形与释义 '厉害的' 理解记忆。
 
-## 3. ✏️ 核心用法
+## ✏️ 核心用法
 
-根据语境理解该词在不同场景中的使用方式。
+**固定表达**：Drástico,ca = 厉害的，烈性的。
+- 整体使用，不拆分理解。常见于口语和书面语。
 
-## 4. 📝 例句
+## 📝 例句
 
-Mi primo es una persona dotada de muchas
+（暂无有效例句）
 
-## 5. 📋 习题
+## 📋 习题
 
-**1.** 选择正确的汉语释义：
-- A) 释义A　B) 释义B　C) 释义C　D) 释义D
+**1.** 理解：*"A mi modo de ver, no hay solución."* 这句话的意思是：
+- A) 无论如何都没有解决方案
+- B) 在我看来没有解决方案
+- C) 我的解决方式不对
+- D) 我不同意这个解决方案
 
-**2.** 以下哪个句子使用了正确的词义：
-- A) 句子A　B) 句子B　C) 句子C　D) 句子D
+**答案：B** | 解析：*A mi modo de ver* 是固定表达，意为"在我看来"。
 
-| 题号 | 答案 | 解析 |
-|------|------|------|
-| 1 | A | 根据上下文选择正确释义。 |
-| 2 | A | 根据用法判断正确句子。 |
+**2.** 填空：A _____ de, el proyecto fue un éxito.（由于……项目获得了成功。）
+- A) causa
+- B) pesar
+- C) través
+- D) raíz
 
-## 6. 🔗 相关词汇
+**答案：D** | 解析：*A raíz de* 意为"由于/鉴于"，常用于引出原因。
+
+**3.** 同义替换：*"A continuación"* ≈ _____：
+- A) Antes de eso
+- B) Después de eso
+- C) En primer lugar
+- D) Por lo tanto
+
+**答案：B** | 解析：*A continuación* 意为"接着/之后"，与"Después de eso"同义。
+
+**4.** 反义表达：*A pesar de* 的反义是：
+- A) A causa de
+- B) A raíz de
+- C) A través de
+- D) Con motivo de
+
+**答案：A** | 解析：*A pesar de*（尽管）与 *A causa de*（由于）意思相对。
+
+**5.** 完成：No puedo hacerlo _____ de las dificultades.（尽管有困难，我仍然做不到。）
+- A) a pesar
+- B) a causa
+- C) a raíz
+- D) a través
+
+**答案：A** | 解析：*A pesar de*（尽管）引导让步状语从句。
+
+**6.** 语境选择：当你想要引出下一个步骤时，该用：
+- A) A través de
+- B) A continuación
+- C) A pesar de
+- D) A mano
+
+**答案：B** | 解析：*A continuación* 用于引出接下来要说的内容，意为"接着"。
+
+**7.** 翻译：*"DRÁSTICO,CA ESTAMOS EN BUEN CAMINO."*：
+- A) 尽管我们在正确的道路上
+- B) 我们在正确的道路上
+- C) 我们不得不走这条路
+- D) 我们选择了这条路
+
+**答案：B** | 解析：取决于具体的固定表达含义。
+
+**8.** 介词选择：Se utiliza *"Drástico,ca"* seguido de：
+- A) 名词/代词
+- B) 动词原形
+- C) 从句（que）
+- D) 视具体情况
+
+**答案：D** | 解析：固定表达后接什么取决于该表达本身的使用习惯。
+
+**9.** 匹配：*Drástico,ca* 与哪个汉语释义对应？
+- A) 厉害的
+- B) 取消
+- C) 隐藏
+- D) 拒绝
+
+**答案：A** | 解析：*Drástico,ca* 的核心含义是"厉害的"。
+
+**10.** 造句：用 *"Drástico,ca"* 造一个正确的句子：
+- A) Drástico,ca la situación es difícil.
+- B) A pesar de Drástico,ca, seguimos adelante.
+- C) El problema Drástico,ca no tiene solución.
+- D) Drástico,ca al final del día, descansamos.
+
+**答案：B** | 解析：固定表达需保持整体结构完整，Drástico,ca 引导让步/原因状语。
+
+## 🔗 相关词汇
 
 | 词汇 | 含义 | 关系 |
 |------|------|------|
