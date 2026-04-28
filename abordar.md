@@ -10,82 +10,75 @@ category: DELE B2
 | 项目 | 内容 |
 |------|------|
 | **单词** | **abordar** |
-| **音标** | [a.boɾˈðaɾ] |
-| **词性** | v. |
-| **核心释义** | 着手处理、开始处理、涉及、登上（交通工具） |
+| **音标** | [a.βoɾˈðaɾ] |
+| **词性** | v. tr. / v. intr. |
+| **核心释义** | 着手处理、探讨；登上（船、飞机等交通工具）；搭讪 |
 
 ---
 
 ## 🧠 记忆辅助
 
 ### 联想记忆
-- **abordar**：a（去）+ bord（船舷）+ ar → 走上船舷 → 登船 → 后引申为"着手处理"
-- **conllevar**：con（一起）+ llevar（携带）→ 带着一起走 → 意味着、伴随
-- **plantear**：plan（计划）+ tear（动词后缀）→ 提出计划 → 引发表述"提出、引发"
-- **contribuir**：con（共同）+ tribut（给予）+ ir → 共同给予 → 贡献
-- **optar**：opt（选择）+ ar → 选择
-- **prescindir**：pre（提前）+ scind（切割）+ ir → 提前切除 → 放弃、省去
-- **subsistir**：sub（下）+ sist（站立）+ ir → 在下面支撑着 → 持续存在
-- **acarrear**：a（到）+ cargar（装载）+ ear → 装载运到 → 导致（负面后果）
-- **concretar**：con（完全）+ cret（筛选）+ ar → 完全筛选出来 → 具体化
-- **dilucidar**：di（分开）+ lucid（清晰）+ ar → 分开使清晰 → 阐明
+- **a-**（朝向）+ **bord**（船舷，bordo）+ **-ar**（动词后缀）
+- 想象你走向一艘船的船舷（bordo），准备「登上」这艘船 → 由此引申为「着手处理」某个话题，就像登上一艘船开始一段旅程
 
 ### 词源补充
-大多数动词以 **-ar** 结尾，属西班牙语第一类规则动词变位。部分动词（如 contribuer, subsistir）以 **-ir** 结尾，属第二/三类变位。
+来自法语 *aborder*，源自拉丁语 ad-（朝向）+ bordus（边缘、船舷）。字面意思是「靠近边缘/船舷」，后引申为「开始接触某个话题或问题」。
 
 ---
 
 ## ✏️ 核心用法
 
-### abordar
+### 1. 着手处理 / 探讨（及物）
+- 最常见的DELE B2用法，表示开始讨论或处理某个话题、问题
+- 搭配：abordar un tema / un problema / un asunto / la situación
 
-**1. 及物动词用法**
-- 直接接宾语，表示对某事物的处理或表达
-- 示例：abordar un problema（处理一个问题）
+### 2. 登上交通工具（及物）
+- 字面义：登上船、飞机等
+- 搭配：abordar un barco / un avión / un tren
 
-**2. 固定搭配/句型**
-- 常见与特定介词连用，形成固定含义
-- 示例：abordar por + 名词（选择…）/ de + 名词（省去…）
+### 3. 搭讪 / 接近某人（及物）
+- 口语中表示主动接近、搭话
+- 搭配：abordar a alguien
 
-**3. 引申义**
-- 在DELE B2级别，常考其抽象引申含义
-- 区别于字面意思，理解语境中的深层含义
+### 4. 注意事项
+- **不规则性**：完全规则动词（第一变位）
+- **语体**：正式/书面语中常用义为「着手处理」；口语中可用「搭讪」义
+- **易混**：不要与 emprender（着手进行）、plantear（提出）混淆
 
 ---
 
 ## 📝 例句模块
 
-### 核心用法练习
+### 着手处理 / 探讨
 
-1. **Tenemos que abordar este asunto lo antes posible.**
-   我们必须尽快着手处理这件事。
+1. **Es necesario abordar el problema del cambio climático desde una perspectiva global.**
+   有必要从全球视角来着手处理气候变化问题。
 
-2. **El proyecto conllevará muchos cambios en la empresa.**
-   这个项目将带来公司很多变革。
+2. **El informe aborda las causas principales de la crisis económica.**
+   这份报告探讨了经济危机的主要原因。
 
-3. **El gobierno planteó nuevas medidas para mejorar la educación.**
-   政府提出了改善教育的新措施。
+3. **La ministra abordó el tema de la reforma educativa en su discurso.**
+   女部长在演讲中谈到了教育改革的话题。
 
-4. **Cada ciudadano puede abordar al desarrollo del país.**
-   每个公民都可以为国家发展做出贡献。
+4. **Este libro aborda la relación entre la tecnología y la sociedad contemporánea.**
+   这本书探讨了技术与当代社会之间的关系。
 
-5. **Finalmente/decidimos abordar por la opción más segura.**
-   最终我们选择了最安全的方案。
+### 登上交通工具
 
-6. **Podemos abordar de los detalles innecesarios.**
-   我们可以省去不必要的细节。
+5. **Los pasajeros abordaron el avión con destino a Madrid.**
+   乘客们登上了飞往马德里的飞机。
 
-7. **Estas tradiciones han abordar durante siglos.**
-   这些传统已经存在了几个世纪。
+6. **El pirata abordó el barco mercante durante la noche.**
+   海盗在夜里登上了商船。
 
-8. **La crisis económica acarreó大量失业。**
-   经济危机导致了大量失业。
+### 搭讪 / 接近某人
 
-9. **Necesitamos abordar los objetivos del proyecto.**
-   我们需要具体化项目的目标。
+7. **Un desconocido me abordó en la calle para pedirme indicaciones.**
+   一个陌生人在街上拦住我问路。
 
-10. **El profesor ayudó a abordar las dudas de los estudiantes.**
-    老师帮助阐明了学生的疑惑。
+8. **No me atreví a abordarla en la fiesta aunque me gustaba mucho.**
+   虽然我非常喜欢她，但在聚会上我不敢上前搭话。
 
 ---
 
@@ -93,69 +86,69 @@ category: DELE B2
 
 ### 一、选择题（核心用法）
 
-**1.** ¿Cuál es el uso correcto de "abordar"?
-- A) abordar de la mesa（从桌子上…）
-- B) abordar un problema（处理一个问题）
-- C) abordar con el problema（和这个问题…）
-- D) abordar para el problema
+**1.** "El artículo aborda las desigualdades sociales." ¿Qué significa "aborda" aquí?
+- A) 避免了
+- B) 探讨了、论述了
+- C) 解决了
+- D) 忽略了
 
-**2.** Selecciona la frase que corresponde al significado de "abordar":
-- A) "No puedo creerlo" — 表示不相信
-- B) "Tengo que abordar esto hoy" — 必须今天着手处理
-- C) "Está lloviendo mucho" — 雨下得很大
-- D) "Me gusta leer" — 我喜欢阅读
+**2.** Completa: "Los soldados _____ el buque enemigo al amanecer."
+- A) abordaron
+- B) abordaron a
+- C) abordaron con
+- D) abordaron en
 
-**3.** Completa: "Es necesario _____ antes de tomar una decisión."
-- A) abordar
-- B) abordar lo
-- C) abordar algo
-- D) abordar con
+**3.** ¿Cuál de estas combinaciones es INCORRECTA?
+- A) abordar un tema
+- B) abordar un problema
+- C) abordar de un tema
+- D) abordar la cuestión
 
-**4.** ¿Cuál es el nivel de registro de "abordar" en este contexto?
-- A) Coloquial（口语）
-- B) Vulgar（粗俗）
-- C) Formal/Escrito（正式/书面）✅
-- D) Arcaico（过时）
+**4.** En el contexto periodístico, "abordar" se usa normalmente para:
+- A) 描述登船行为
+- B) 探讨某个话题或问题
+- C) 表示搭讪某人
+- D) 表示逃避问题
 
 ### 二、近义词辨析
 
-**5.** "abordar" es similar a:
-- A) Evitar / Evitar（避免）
-- B) Resolver / 解决 ✅
-- C) Ignorar / 忽略
-- D) Detener / 停止
+**5.** "abordar un tema" es más cercano a:
+- A) evitar un tema（回避话题）
+- B) tratar un tema（讨论话题）
+- C) olvidar un tema（忘记话题）
+- D) crear un tema（创造话题）
 
-**6.** Indica qué palabra NO es semánticamente相近：
-- A) abordar
-- B) realizar（实现）
-- C) completar（完成）
-- D) llorar（哭泣）✅
+**6.** ¿Cuál es la diferencia principal entre "abordar" y "plantear"?
+- A) Son sinónimos exactos
+- B) abordar = 开始讨论已存在的话题; plantear = 提出新的话题或问题
+- C) abordar es más informal
+- D) plantear solo se usa por escrito
 
-**7.** Diferencia: "abordar" vs "evitar":
-- A) abordar implica acción directa; evitar implica prevención
-- B) Son completamente iguales
-- C) abordar es más formal que evitar
-- D) Evitar es más positivo
+**7.** "El capitán abordó el barco" vs "El capitán subió al barco":
+- A) Significan exactamente lo mismo
+- B) "abordó" implica más formalidad o contexto naval/militar
+- C) "subió" es más formal
+- D) "abordó" no se puede usar con barcos
 
-**8.** En la frase "Vamos a abordar el proyecto", ¿qué significa?
-- A) Abandonar el proyecto（放弃项目）
-- B) Empezar a trabajar en el proyecto（开始着手项目）✅
-- C) Terminar el proyecto（结束项目）
-- D) Criticar el proyecto（批评项目）
+**8.** ¿Cuál NO es sinónimo de "abordar" en el sentido de "tratar un tema"?
+- A) tratar
+- B) examinar
+- C) ignorar
+- D) analizar
 
 ### 三、反义词与否定用法
 
-**9.** El antónimo de "abordar" podría ser:
-- A) Continuar（继续）
-- B) Abandonar（放弃）✅
-- C) Mejorar（改善）
-- D) Crear（创造）
+**9.** El antónimo de "abordar un problema" sería:
+- A) resolver un problema（解决问题）
+- B) eludir un problema（回避问题）
+- C) crear un problema（制造问题）
+- D) analizar un problema（分析问题）
 
-**10.** Completa la negación: "No es necesario _____ este paso."
-- A) abordar
-- B) abordar con
-- C) abordar de
-- D) Ninguna de las anteriores
+**10.** "El periódico no abordó el tema de la corrupción." Esto significa:
+- A) 报纸深入讨论了腐败问题
+- B) 报纸没有涉及/讨论腐败问题
+- C) 报纸解决了腐败问题
+- D) 报纸提出了腐败问题
 
 ---
 
@@ -163,16 +156,16 @@ category: DELE B2
 
 | 题号 | 答案 | 解析 |
 |------|------|------|
-| 1 | B | abordar作为及物动词直接接宾语，表示"处理、做某事" |
-| 2 | B | "abordar"在本句中表示着手处理，符合语境 |
-| 3 | A | 需要先对某事物进行abordar才能做决定 |
-| 4 | C | abordar多用于正式/书面语境 |
-| 5 | B | abordar与resolver在语义上最接近 |
-| 6 | D | "llorar"与其他词无语义关联 |
-| 7 | A | abordar强调直接行动，evitar强调预防避免 |
-| 8 | B | 在此语境下abordar表示开始/着手做某事 |
-| 9 | B | abandonar（放弃）是abordar的反义词 |
-| 10 | D | 根据具体语境选择最合适的否定形式 |
+| 1 | B | abordar在此语境下意为「探讨、论述」 |
+| 2 | A | abordar作「登上」义直接接交通工具，无需介词 |
+| 3 | C | abordar是及物动词，直接接宾语，不加 "de" |
+| 4 | B | 新闻语境中最常见用法是「探讨话题」 |
+| 5 | B | tratar（讨论）与 abordar 在此语境中最为接近 |
+| 6 | B | abordar强调开始讨论已有话题，plantear强调提出新话题 |
+| 7 | B | abordar有海军/军事色彩，更为正式 |
+| 8 | C | ignorar（忽略）是反义词，不是近义词 |
+| 9 | B | eludir（回避）是 abordar（着手处理）的反义词 |
+| 10 | B | "no abordó" 表示没有涉及/讨论该话题 |
 
 ---
 
@@ -180,15 +173,11 @@ category: DELE B2
 
 | 词汇 | 含义 | 关系 |
 |------|------|------|
-| abordaje | 处理、登船 | 同根名词 |
-| planteamiento | 提出、规划 | 同根名词 |
-| contributivo | 贡献的 | 同根形容词 |
-| optativo | 可选择的 | 同根形容词 |
-| subsistencia | 存在、持续 | 同根名词 |
-| concretización | 具体化 | 同根名词 |
-| dilucidación | 阐明、澄清 | 同根名词 |
-| -- | -- | -- |
-| evitar | 避免 | 近义（部分语境） |
-| abandonar | 放弃 | 反义 |
-| comenzar | 开始 | 近义 |
-| resolver | 解决 | 近义 |
+| abordaje | 登船；着手处理 | 派生名词 |
+| bordo | 船舷、船侧 | 同根词 |
+| a bordo | 在船上/飞机上 | 固定短语 |
+| tratar | 讨论、对待 | 近义词 |
+| plantear | 提出 | 近义词 |
+| emprender | 着手进行 | 近义词 |
+| eludir | 回避 | 反义词 |
+| evitar | 避免 | 反义词 |

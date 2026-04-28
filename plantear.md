@@ -11,81 +11,78 @@ category: DELE B2
 |------|------|
 | **单词** | **plantear** |
 | **音标** | [plan.teˈaɾ] |
-| **词性** | v. |
-| **核心释义** | 提出、引发、规划、表达（意见） |
+| **词性** | v. tr. |
+| **核心释义** | 提出（问题、想法）；引发、造成（问题）；规划 |
 
 ---
 
 ## 🧠 记忆辅助
 
 ### 联想记忆
-- **abordar**：a（去）+ bord（船舷）+ ar → 走上船舷 → 登船 → 后引申为"着手处理"
-- **conllevar**：con（一起）+ llevar（携带）→ 带着一起走 → 意味着、伴随
-- **plantear**：plan（计划）+ tear（动词后缀）→ 提出计划 → 引发表述"提出、引发"
-- **contribuir**：con（共同）+ tribut（给予）+ ir → 共同给予 → 贡献
-- **optar**：opt（选择）+ ar → 选择
-- **prescindir**：pre（提前）+ scind（切割）+ ir → 提前切除 → 放弃、省去
-- **subsistir**：sub（下）+ sist（站立）+ ir → 在下面支撑着 → 持续存在
-- **acarrear**：a（到）+ cargar（装载）+ ear → 装载运到 → 导致（负面后果）
-- **concretar**：con（完全）+ cret（筛选）+ ar → 完全筛选出来 → 具体化
-- **dilucidar**：di（分开）+ lucid（清晰）+ ar → 分开使清晰 → 阐明
+- **planta**（植物/方案）+ **-ear**（动词后缀）→ 把一个「方案/planta」摆到桌面上 → 提出
+- 也可以联想 **plano**（平面图/计划）→ 在平面上展开一个计划 → 提出、规划
 
 ### 词源补充
-大多数动词以 **-ar** 结尾，属西班牙语第一类规则动词变位。部分动词（如 contribuer, subsistir）以 **-ir** 结尾，属第二/三类变位。
+来自拉丁语 plantare（种植、建立）。原义是「把幼苗种下」，引申为「把想法/问题摆出来」→ 提出问题、引发讨论。
 
 ---
 
 ## ✏️ 核心用法
 
-### plantear
+### 1. 提出（问题、想法、建议）⭐ 最常见
+- 把问题、观点、建议等摆到台面上讨论
+- 搭配：plantear un problema / una cuestión / una propuesta / una idea / un reto
 
-**1. 及物动词用法**
-- 直接接宾语，表示对某事物的处理或表达
-- 示例：plantear un problema（处理一个问题）
+### 2. 引发、造成（问题）
+- 表示某事带来了新的问题或困难
+- 搭配：plantear dificultades / obstáculos / inconvenientes
 
-**2. 固定搭配/句型**
-- 常见与特定介词连用，形成固定含义
-- 示例：plantear por + 名词（选择…）/ de + 名词（省去…）
+### 3. 规划、设想
+- 较少用，表示构想某种情景
+- 搭配：plantear un escenario / una hipótesis
 
-**3. 引申义**
-- 在DELE B2级别，常考其抽象引申含义
-- 区别于字面意思，理解语境中的深层含义
+### 4. plantearse（自复形式）
+- 表示「自问、考虑」
+- 搭配：plantearse una pregunta / la posibilidad de...
+
+### 5. 注意事项
+- **不规则性**：完全规则动词（第一变位）
+- **语体**：中性偏正式，口语和书面均可用
+- **易混**：plantear ≠ resolver（解决），plantear 只是「提出」，不包含「解决」
 
 ---
 
 ## 📝 例句模块
 
-### 核心用法练习
+### 提出问题/想法
 
-1. **Tenemos que plantear este asunto lo antes posible.**
-   我们必须尽快着手处理这件事。
+1. **El profesor planteó una pregunta muy interesante al final de la clase.**
+   老师在课末提出了一个很有趣的问题。
 
-2. **El proyecto conllevará muchos cambios en la empresa.**
-   这个项目将带来公司很多变革。
+2. **Quiero plantear una propuesta para mejorar el sistema de transporte.**
+   我想提出一个改善交通系统的建议。
 
-3. **El gobierno planteó nuevas medidas para mejorar la educación.**
-   政府提出了改善教育的新措施。
+3. **Los estudiantes plantearon sus dudas al director del programa.**
+   学生们向项目主任提出了他们的疑问。
 
-4. **Cada ciudadano puede plantear al desarrollo del país.**
-   每个公民都可以为国家发展做出贡献。
+### 引发问题
 
-5. **Finalmente/decidimos plantear por la opción más segura.**
-   最终我们选择了最安全的方案。
+4. **Esta nueva ley puede plantear problemas a las pequeñas empresas.**
+   这部新法律可能会给小企业带来问题。
 
-6. **Podemos plantear de los detalles innecesarios.**
-   我们可以省去不必要的细节。
+5. **El cambio de horario plantea bastantes inconvenientes para los trabajadores.**
+   时间变更给工人们带来了不少不便。
 
-7. **Estas tradiciones han plantear durante siglos.**
-   这些传统已经存在了几个世纪。
+### plantearse（自问）
 
-8. **La crisis económica acarreó大量失业。**
-   经济危机导致了大量失业。
+6. **Me planteé la posibilidad de estudiar en el extranjero.**
+   我考虑了出国留学的可能性。
 
-9. **Necesitamos plantear los objetivos del proyecto.**
-   我们需要具体化项目的目标。
+7. **Deberías plantearte si realmente quieres este trabajo.**
+   你应该问问自己是否真的想要这份工作。
 
-10. **El profesor ayudó a plantear las dudas de los estudiantes.**
-    老师帮助阐明了学生的疑惑。
+8. **Se plantearon abandonar el proyecto ante tantas dificultades.**
+   面对如此多的困难，他们考虑过放弃这个项目。
 
 ---
 
@@ -93,69 +90,69 @@ category: DELE B2
 
 ### 一、选择题（核心用法）
 
-**1.** ¿Cuál es el uso correcto de "plantear"?
-- A) plantear de la mesa（从桌子上…）
-- B) plantear un problema（处理一个问题）
-- C) plantear con el problema（和这个问题…）
-- D) plantear para el problema
+**1.** "El informe plantea serias dudas sobre la viabilidad del proyecto." ¿Qué significa?
+- A) 报告解决了关于项目可行性的严重疑问
+- B) 报告提出了关于项目可行性的严重疑问
+- C) 报告忽略了关于项目可行性的严重疑问
+- D) 报告回答了关于项目可行性的严重疑问
 
-**2.** Selecciona la frase que corresponde al significado de "plantear":
-- A) "No puedo creerlo" — 表示不相信
-- B) "Tengo que plantear esto hoy" — 必须今天着手处理
-- C) "Está lloviendo mucho" — 雨下得很大
-- D) "Me gusta leer" — 我喜欢阅读
+**2.** Completa: "El cambio climático _____ nuevos retos a la humanidad."
+- A) plantea
+- B) planta
+- C) planifica
+- D) platica
 
-**3.** Completa: "Es necesario _____ antes de tomar una decisión."
-- A) plantear
-- B) plantear lo
-- C) plantear algo
-- D) plantear con
+**3.** ¿Cuál es la diferencia entre "plantear" y "resolver"?
+- A) Son sinónimos
+- B) plantear = 提出; resolver = 解决
+- C) plantear es más formal
+- D) resolver solo se usa en matemáticas
 
-**4.** ¿Cuál es el nivel de registro de "plantear" en este contexto?
-- A) Coloquial（口语）
-- B) Vulgar（粗俗）
-- C) Formal/Escrito（正式/书面）✅
-- D) Arcaico（过时）
+**4.** "Me planteo cambiar de trabajo" significa:
+- A) 我已经换了工作
+- B) 我正在考虑换工作
+- C) 我不想换工作
+- D) 我建议别人换工作
 
 ### 二、近义词辨析
 
-**5.** "plantear" es similar a:
-- A) Evitar / Evitar（避免）
-- B) Resolver / 解决 ✅
-- C) Ignorar / 忽略
-- D) Detener / 停止
+**5.** "plantear un problema" es más cercano a:
+- A) solucionar un problema（解决问题）
+- B) formular un problema（表述问题）
+- C) ignorar un problema（忽视问题）
+- D) crear un problema（制造问题）
 
-**6.** Indica qué palabra NO es semánticamente相近：
-- A) plantear
-- B) realizar（实现）
-- C) completar（完成）
-- D) llorar（哭泣）✅
+**6.** ¿Cuál NO es sinónimo de "plantear"?
+- A) formular
+- B) proponer
+- C) exponer
+- D) resolver
 
-**7.** Diferencia: "plantear" vs "evitar":
-- A) plantear implica acción directa; evitar implica prevención
-- B) Son completamente iguales
-- C) plantear es más formal que evitar
-- D) Evitar es más positivo
+**7.** "El gobierno plantea nuevas medidas" vs "El gobierno propone nuevas medidas":
+- A) Son prácticamente sinónimos en este contexto
+- B) "plantea" es más formal
+- C) "propone" es más formal
+- D) Tienen significados completamente diferentes
 
-**8.** En la frase "Vamos a plantear el proyecto", ¿qué significa?
-- A) Abandonar el proyecto（放弃项目）
-- B) Empezar a trabajar en el proyecto（开始着手项目）✅
-- C) Terminar el proyecto（结束项目）
-- D) Criticar el proyecto（批评项目）
+**8.** En "plantearse una posibilidad", ¿qué verbo podría sustituirlo?
+- A) considerar
+- B) ignorar
+- C) rechazar
+- D) olvidar
 
 ### 三、反义词与否定用法
 
-**9.** El antónimo de "plantear" podría ser:
-- A) Continuar（继续）
-- B) Abandonar（放弃）✅
-- C) Mejorar（改善）
-- D) Crear（创造）
+**9.** El antónimo de "plantear un problema" sería:
+- A) analizar un problema（分析问题）
+- B) resolver un problema（解决问题）
+- C) estudiar un problema（研究问题）
+- D) examinar un problema（检查问题）
 
-**10.** Completa la negación: "No es necesario _____ este paso."
-- A) plantear
-- B) plantear con
-- C) plantear de
-- D) Ninguna de las anteriores
+**10.** "No se planteó ninguna objeción" significa:
+- A) 提出了很多反对意见
+- B) 没有提出任何反对意见
+- C) 不得不提出反对意见
+- D) 正在考虑反对意见
 
 ---
 
@@ -163,16 +160,16 @@ category: DELE B2
 
 | 题号 | 答案 | 解析 |
 |------|------|------|
-| 1 | B | plantear作为及物动词直接接宾语，表示"处理、做某事" |
-| 2 | B | "plantear"在本句中表示着手处理，符合语境 |
-| 3 | A | 需要先对某事物进行plantear才能做决定 |
-| 4 | C | plantear多用于正式/书面语境 |
-| 5 | B | plantear与resolver在语义上最接近 |
-| 6 | D | "llorar"与其他词无语义关联 |
-| 7 | A | plantear强调直接行动，evitar强调预防避免 |
-| 8 | B | 在此语境下plantear表示开始/着手做某事 |
-| 9 | B | abandonar（放弃）是plantear的反义词 |
-| 10 | D | 根据具体语境选择最合适的否定形式 |
+| 1 | B | plantear 意为「提出」，报告提出了疑问 |
+| 2 | A | plantear 在此表示「引发、带来」 |
+| 3 | B | plantear = 提出; resolver = 解决，含义完全不同 |
+| 4 | B | plantearse 表示「自问、考虑」 |
+| 5 | B | formular（表述）与 plantear 在「提出」意义上最接近 |
+| 6 | D | resolver（解决）不是 plantear（提出）的近义词 |
+| 7 | A | 在此语境下两者几乎同义 |
+| 8 | A | considerar（考虑）可替换 plantearse（自问） |
+| 9 | B | resolver（解决）是 plantear（提出）在问题语境下的反义 |
+| 10 | B | "No se planteó ninguna objeción" = 没有提出任何反对意见 |
 
 ---
 
@@ -180,15 +177,11 @@ category: DELE B2
 
 | 词汇 | 含义 | 关系 |
 |------|------|------|
-| abordaje | 处理、登船 | 同根名词 |
-| planteamiento | 提出、规划 | 同根名词 |
-| contributivo | 贡献的 | 同根形容词 |
-| optativo | 可选择的 | 同根形容词 |
-| subsistencia | 存在、持续 | 同根名词 |
-| concretización | 具体化 | 同根名词 |
-| dilucidación | 阐明、澄清 | 同根名词 |
-| -- | -- | -- |
-| evitar | 避免 | 近义（部分语境） |
-| abandonar | 放弃 | 反义 |
-| comenzar | 开始 | 近义 |
-| resolver | 解决 | 近义 |
+| planteamiento | 提出、规划；立场 | 派生名词 |
+| planteo | 提出（拉美用法） | 派生名词 |
+| plan | 计划 | 同根词 |
+| plano | 平面、计划 | 同根词 |
+| formular | 提出、表述 | 近义词 |
+| proponer | 建议、提议 | 近义词 |
+| exponer | 阐述、展示 | 近义词 |
+| resolver | 解决 | 反义词 |

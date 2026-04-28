@@ -11,81 +11,75 @@ category: DELE B2
 |------|------|
 | **单词** | **optar** |
 | **音标** | [opˈtaɾ] |
-| **词性** | v. |
-| **核心释义** | 选择、选取、决定（后接por）、 opt by |
+| **词性** | v. intr. |
+| **核心释义** | 选择、决定；有资格获得 |
 
 ---
 
 ## 🧠 记忆辅助
 
 ### 联想记忆
-- **abordar**：a（去）+ bord（船舷）+ ar → 走上船舷 → 登船 → 后引申为"着手处理"
-- **conllevar**：con（一起）+ llevar（携带）→ 带着一起走 → 意味着、伴随
-- **plantear**：plan（计划）+ tear（动词后缀）→ 提出计划 → 引发表述"提出、引发"
-- **contribuir**：con（共同）+ tribut（给予）+ ir → 共同给予 → 贡献
-- **optar**：opt（选择）+ ar → 选择
-- **prescindir**：pre（提前）+ scind（切割）+ ir → 提前切除 → 放弃、省去
-- **subsistir**：sub（下）+ sist（站立）+ ir → 在下面支撑着 → 持续存在
-- **acarrear**：a（到）+ cargar（装载）+ ear → 装载运到 → 导致（负面后果）
-- **concretar**：con（完全）+ cret（筛选）+ ar → 完全筛选出来 → 具体化
-- **dilucidar**：di（分开）+ lucid（清晰）+ ar → 分开使清晰 → 阐明
+- 直接联想英语 **option**（选项）→ 从选项中挑选 → 选择
+- **optar** = 做出选择（opt- 选择 + -ar 动词后缀）
 
 ### 词源补充
-大多数动词以 **-ar** 结尾，属西班牙语第一类规则动词变位。部分动词（如 contribuer, subsistir）以 **-ir** 结尾，属第二/三类变位。
+来自拉丁语 optare（期望、选择）。与英语 option, optimal 同源。原义是「期望得到某物」，引申为「选择」。
 
 ---
 
 ## ✏️ 核心用法
 
-### optar
+### 1. optar por + 名词/动词原形 ⭐ 最常见
+- 选择…、决定…
+- 例：optar por una carrera / optar por quedarse en casa
 
-**1. 及物动词用法**
-- 直接接宾语，表示对某事物的处理或表达
-- 示例：optar un problema（处理一个问题）
+### 2. optar a + 名词
+- 有资格获得…；竞争…（职位、奖项等）
+- 例：optar a un puesto / optar a una beca / optar al premio
 
-**2. 固定搭配/句型**
-- 常见与特定介词连用，形成固定含义
-- 示例：optar por + 名词（选择…）/ de + 名词（省去…）
+### 3. optar entre + 名词
+- 在…之间选择
+- 例：optar entre dos opciones
 
-**3. 引申义**
-- 在DELE B2级别，常考其抽象引申含义
-- 区别于字面意思，理解语境中的深层含义
+### 4. 注意事项
+- **不规则性**：完全规则动词（第一变位）
+- **语体**：中性，口语和书面均常用
+- **介词搭配**：optar **por**（选择）/ optar **a**（有资格获得）/ optar **entre**（在…之间选择）
+- **易混**：optar por ≠ elegir，optar 更强调经过考虑后的决定
 
 ---
 
 ## 📝 例句模块
 
-### 核心用法练习
+### optar por（选择、决定）
 
-1. **Tenemos que optar este asunto lo antes posible.**
-   我们必须尽快着手处理这件事。
+1. **Al final opté por quedarme en casa en lugar de salir con los amigos.**
+   最后我决定待在家里而不是和朋友出去。
 
-2. **El proyecto conllevará muchos cambios en la empresa.**
-   这个项目将带来公司很多变革。
+2. **Muchos jóvenes optan por estudiar ingeniería informática por las buenas salidas laborales.**
+   许多年轻人因为良好的就业前景而选择学习计算机工程。
 
-3. **El gobierno planteó nuevas medidas para mejorar la educación.**
-   政府提出了改善教育的新措施。
+3. **La empresa optó por reducir los gastos en lugar de despedir empleados.**
+   公司选择削减开支而非裁员。
 
-4. **Cada ciudadano puede optar al desarrollo del país.**
-   每个公民都可以为国家发展做出贡献。
+### optar a（有资格获得）
 
-5. **Finalmente/decidimos optar por la opción más segura.**
-   最终我们选择了最安全的方案。
+4. **Este equipo opta al campeonato este año.**
+   这支球队今年有资格争夺冠军。
 
-6. **Podemos optar de los detalles innecesarios.**
-   我们可以省去不必要的细节。
+5. **Los estudiantes con buenas notas pueden optar a una beca de estudio.**
+   成绩好的学生可以申请奖学金。
 
-7. **Estas tradiciones han optar durante siglos.**
-   这些传统已经存在了几个世纪。
+### optar entre（在…之间选择）
 
-8. **La crisis económica acarreó大量失业。**
-   经济危机导致了大量失业。
+6. **Es difícil optar entre dos opciones tan buenas.**
+   在两个这么好的选择之间做决定很难。
 
-9. **Necesitamos optar los objetivos del proyecto.**
-   我们需要具体化项目的目标。
+7. **Tuvo que optar entre su carrera profesional y su familia.**
+   他不得不在事业和家庭之间做选择。
 
-10. **El profesor ayudó a optar las dudas de los estudiantes.**
-    老师帮助阐明了学生的疑惑。
+8. **¿Con cuál te quedas? Tienes que optar entre el rojo y el azul.**
+   你选哪个？你得在红色和蓝色之间选一个。
 
 ---
 
@@ -93,69 +87,69 @@ category: DELE B2
 
 ### 一、选择题（核心用法）
 
-**1.** ¿Cuál es el uso correcto de "optar"?
-- A) optar de la mesa（从桌子上…）
-- B) optar un problema（处理一个问题）
-- C) optar con el problema（和这个问题…）
-- D) optar para el problema
+**1.** "Los ciudadanos optaron por el candidato más joven." ¿Qué significa?
+- A) 市民们拒绝了最年轻的候选人
+- B) 市民们选择了最年轻的候选人
+- C) 市民们不认识最年轻的候选人
+- D) 市民们批评了最年轻的候选人
 
-**2.** Selecciona la frase que corresponde al significado de "optar":
-- A) "No puedo creerlo" — 表示不相信
-- B) "Tengo que optar esto hoy" — 必须今天着手处理
-- C) "Está lloviendo mucho" — 雨下得很大
-- D) "Me gusta leer" — 我喜欢阅读
+**2.** Completa: "Con este título puedes optar _____ mejores puestos de trabajo."
+- A) por
+- B) a
+- C) en
+- D) de
 
-**3.** Completa: "Es necesario _____ antes de tomar una decisión."
-- A) optar
-- B) optar lo
-- C) optar algo
-- D) optar con
+**3.** ¿Cuál es la diferencia entre "optar por" y "optar a"?
+- A) Son iguales
+- B) "optar por" = 选择; "optar a" = 有资格获得
+- C) "optar a" es más formal
+- D) "optar por" solo se usa en contextos negativos
 
-**4.** ¿Cuál es el nivel de registro de "optar" en este contexto?
-- A) Coloquial（口语）
-- B) Vulgar（粗俗）
-- C) Formal/Escrito（正式/书面）✅
-- D) Arcaico（过时）
+**4.** "optar entre A y B" significa:
+- A) 选择A或B
+- B) 在A和B之间做选择
+- C) 同时选择A和B
+- D) 拒绝A和B
 
 ### 二、近义词辨析
 
-**5.** "optar" es similar a:
-- A) Evitar / Evitar（避免）
-- B) Resolver / 解决 ✅
-- C) Ignorar / 忽略
-- D) Detener / 停止
+**5.** "optar por" es más cercano a:
+- A) rechazar（拒绝）
+- B) decidirse por（决定选择）
+- C) dudar（犹豫）
+- D) ignorar（忽视）
 
-**6.** Indica qué palabra NO es semánticamente相近：
-- A) optar
-- B) realizar（实现）
-- C) completar（完成）
-- D) llorar（哭泣）✅
+**6.** ¿Cuál es la diferencia entre "optar" y "elegir"?
+- A) Son sinónimos exactos
+- B) "optar" enfatiza la decisión tras considerar opciones; "elegir" es más general
+- C) "elegir" es más formal
+- D) "optar" solo se usa por escrito
 
-**7.** Diferencia: "optar" vs "evitar":
-- A) optar implica acción directa; evitar implica prevención
-- B) Son completamente iguales
-- C) optar es más formal que evitar
-- D) Evitar es más positivo
+**7.** "Escogió el camino más fácil" vs "Optó por el camino más fácil":
+- A) Significan lo mismo
+- B) "optó" implica mayor reflexión
+- C) "escogió" es más formal
+- D) Son gramaticalmente incorrectos
 
-**8.** En la frase "Vamos a optar el proyecto", ¿qué significa?
-- A) Abandonar el proyecto（放弃项目）
-- B) Empezar a trabajar en el proyecto（开始着手项目）✅
-- C) Terminar el proyecto（结束项目）
-- D) Criticar el proyecto（批评项目）
+**8.** ¿Cuál NO es sinónimo de "optar por"?
+- A) decidirse por
+- B) inclinarse por
+- C) rechazar
+- D) escoger
 
 ### 三、反义词与否定用法
 
-**9.** El antónimo de "optar" podría ser:
-- A) Continuar（继续）
-- B) Abandonar（放弃）✅
-- C) Mejorar（改善）
-- D) Crear（创造）
+**9.** El antónimo de "optar por algo" sería:
+- A) aceptar algo（接受某物）
+- B) rechazar algo / descartar algo（拒绝/排除某物）
+- C) considerar algo（考虑某物）
+- D) analizar algo（分析某物）
 
-**10.** Completa la negación: "No es necesario _____ este paso."
-- A) optar
-- B) optar con
-- C) optar de
-- D) Ninguna de las anteriores
+**10.** "No opté por ninguna de las dos opciones" significa:
+- A) 我选择了两个选项中的一个
+- B) 我两个选项都没有选
+- C) 我不得不选择
+- D) 我选择了两个选项
 
 ---
 
@@ -163,16 +157,16 @@ category: DELE B2
 
 | 题号 | 答案 | 解析 |
 |------|------|------|
-| 1 | B | optar作为及物动词直接接宾语，表示"处理、做某事" |
-| 2 | B | "optar"在本句中表示着手处理，符合语境 |
-| 3 | A | 需要先对某事物进行optar才能做决定 |
-| 4 | C | optar多用于正式/书面语境 |
-| 5 | B | optar与resolver在语义上最接近 |
-| 6 | D | "llorar"与其他词无语义关联 |
-| 7 | A | optar强调直接行动，evitar强调预防避免 |
-| 8 | B | 在此语境下optar表示开始/着手做某事 |
-| 9 | B | abandonar（放弃）是optar的反义词 |
-| 10 | D | 根据具体语境选择最合适的否定形式 |
+| 1 | B | optar por 表示「选择」 |
+| 2 | B | optar a 表示「有资格获得」 |
+| 3 | B | "por" 表示选择，"a" 表示有资格获得 |
+| 4 | B | optar entre 表示「在…之间做选择」 |
+| 5 | B | decidirse por 与 optar por 最接近 |
+| 6 | B | optar 更强调经过考虑的决定，elegir 更通用 |
+| 7 | B | optó 暗示更深思熟虑 |
+| 8 | C | rechazar（拒绝）是反义词 |
+| 9 | B | rechazar/descartar 是 optar por 的反义词 |
+| 10 | B | "No opté por ninguna" = 两个都没选 |
 
 ---
 
@@ -180,15 +174,11 @@ category: DELE B2
 
 | 词汇 | 含义 | 关系 |
 |------|------|------|
-| abordaje | 处理、登船 | 同根名词 |
-| planteamiento | 提出、规划 | 同根名词 |
-| contributivo | 贡献的 | 同根形容词 |
-| optativo | 可选择的 | 同根形容词 |
-| subsistencia | 存在、持续 | 同根名词 |
-| concretización | 具体化 | 同根名词 |
-| dilucidación | 阐明、澄清 | 同根名词 |
-| -- | -- | -- |
-| evitar | 避免 | 近义（部分语境） |
-| abandonar | 放弃 | 反义 |
-| comenzar | 开始 | 近义 |
-| resolver | 解决 | 近义 |
+| opción | 选项、选择 | 派生名词 |
+| optativo | 可选择的 | 派生形容词 |
+| óptimo | 最佳的 | 同根词 |
+| elegir | 选择 | 近义词 |
+| escoger | 挑选 | 近义词 |
+| decidirse por | 决定选择 | 近义短语 |
+| rechazar | 拒绝 | 反义词 |
+| descartar | 排除 | 反义词 |

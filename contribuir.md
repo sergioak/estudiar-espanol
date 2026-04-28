@@ -10,82 +10,74 @@ category: DELE B2
 | 项目 | 内容 |
 |------|------|
 | **单词** | **contribuir** |
-| **音标** | [kon.tɾi.βuˈiɾ] |
-| **词性** | v. |
-| **核心释义** | 贡献、促成、捐献、起作用 |
+| **音标** | [kon.tɾi.ˈβwiɾ] |
+| **词性** | v. intr. / v. tr. |
+| **核心释义** | 贡献、促成；捐款、捐助 |
 
 ---
 
 ## 🧠 记忆辅助
 
 ### 联想记忆
-- **abordar**：a（去）+ bord（船舷）+ ar → 走上船舷 → 登船 → 后引申为"着手处理"
-- **conllevar**：con（一起）+ llevar（携带）→ 带着一起走 → 意味着、伴随
-- **plantear**：plan（计划）+ tear（动词后缀）→ 提出计划 → 引发表述"提出、引发"
-- **contribuir**：con（共同）+ tribut（给予）+ ir → 共同给予 → 贡献
-- **optar**：opt（选择）+ ar → 选择
-- **prescindir**：pre（提前）+ scind（切割）+ ir → 提前切除 → 放弃、省去
-- **subsistir**：sub（下）+ sist（站立）+ ir → 在下面支撑着 → 持续存在
-- **acarrear**：a（到）+ cargar（装载）+ ear → 装载运到 → 导致（负面后果）
-- **concretar**：con（完全）+ cret（筛选）+ ar → 完全筛选出来 → 具体化
-- **dilucidar**：di（分开）+ lucid（清晰）+ ar → 分开使清晰 → 阐明
+- **con-**（共同）+ **tribu**（部落/贡品）+ **-ir**（动词后缀）→ 共同向部落进贡 → 贡献
+- 联想 **tributo**（税、贡品）→ 每个人贡献一份 → 贡献力量、捐款
 
 ### 词源补充
-大多数动词以 **-ar** 结尾，属西班牙语第一类规则动词变位。部分动词（如 contribuer, subsistir）以 **-ir** 结尾，属第二/三类变位。
+来自拉丁语 contribuere（con- 共同 + tribuere 分配/给予）。原义是「共同分配」，引申为「为共同目标出力」→ 贡献、促成。
 
 ---
 
 ## ✏️ 核心用法
 
-### contribuir
+### 1. contribuir a + 名词/动词原形 ⭐ 最常见
+- 对…做出贡献；有助于…；促成…
+- 例：contribuir al desarrollo / contribuir a resolver el problema
 
-**1. 及物动词用法**
-- 直接接宾语，表示对某事物的处理或表达
-- 示例：contribuir un problema（处理一个问题）
+### 2. contribuir con + 名词
+- 提供（资金、物资等）
+- 例：contribuir con dinero / con ideas / con su trabajo
 
-**2. 固定搭配/句型**
-- 常见与特定介词连用，形成固定含义
-- 示例：contribuir por + 名词（选择…）/ de + 名词（省去…）
+### 3. 及物用法（较少）
+- contribuir fondos / recursos（提供资金/资源）
 
-**3. 引申义**
-- 在DELE B2级别，常考其抽象引申含义
-- 区别于字面意思，理解语境中的深层含义
+### 4. 注意事项
+- **不规则性**：不规则动词（-ir 类）
+  - 现在时：contribuyo, contribuyes, contribuye...
+  - 虚拟式：contribuya, contribuyas...
+- **语体**：中性偏正式
+- **介词搭配**：contribuir **a**（促成）/ contribuir **con**（提供）
 
 ---
 
 ## 📝 例句模块
 
-### 核心用法练习
+### contribuir a（促成、有助于）
 
-1. **Tenemos que contribuir este asunto lo antes posible.**
-   我们必须尽快着手处理这件事。
+1. **El ejercicio regular contribuye a mejorar la salud física y mental.**
+   经常锻炼有助于改善身心健康。
 
-2. **El proyecto conllevará muchos cambios en la empresa.**
-   这个项目将带来公司很多变革。
+2. **Cada ciudadano puede contribuir a la protección del medio ambiente.**
+   每个公民都可以为保护环境做出贡献。
 
-3. **El gobierno planteó nuevas medidas para mejorar la educación.**
-   政府提出了改善教育的新措施。
+3. **La falta de comunicación contribuyó a la ruptura de la relación.**
+   缺乏沟通促成了这段关系的破裂。
 
-4. **Cada ciudadano puede contribuir al desarrollo del país.**
-   每个公民都可以为国家发展做出贡献。
+4. **Las nuevas tecnologías contribuyen a facilitar el acceso a la información.**
+   新技术有助于使信息获取更加便捷。
 
-5. **Finalmente/decidimos contribuir por la opción más segura.**
-   最终我们选择了最安全的方案。
+### contribuir con（提供）
 
-6. **Podemos contribuir de los detalles innecesarios.**
-   我们可以省去不必要的细节。
+5. **Todos los empleados contribuyeron con ideas para el nuevo proyecto.**
+   所有员工都为新项目贡献了想法。
 
-7. **Estas tradiciones han contribuir durante siglos.**
-   这些传统已经存在了几个世纪。
+6. **La empresa contribuyó con una importante suma de dinero a la ONG.**
+   公司向非政府组织捐赠了一大笔钱。
 
-8. **La crisis económica acarreó大量失业。**
-   经济危机导致了大量失业。
+7. **Cada uno debe contribuir con su granito de arena.**
+   每个人都应该贡献自己的一份力量。（习语）
 
-9. **Necesitamos contribuir los objetivos del proyecto.**
-   我们需要具体化项目的目标。
-
-10. **El profesor ayudó a contribuir las dudas de los estudiantes.**
-    老师帮助阐明了学生的疑惑。
+8. **Los países desarrollados deben contribuir con más recursos para combatir la pobreza.**
+   发达国家应提供更多资源来对抗贫困。
 
 ---
 
@@ -93,69 +85,69 @@ category: DELE B2
 
 ### 一、选择题（核心用法）
 
-**1.** ¿Cuál es el uso correcto de "contribuir"?
-- A) contribuir de la mesa（从桌子上…）
-- B) contribuir un problema（处理一个问题）
-- C) contribuir con el problema（和这个问题…）
-- D) contribuir para el problema
+**1.** "Las buenas condiciones climáticas contribuyen a una buena cosecha." ¿Qué significa?
+- A) 好的气候条件导致了歉收
+- B) 好的气候条件有助于获得好收成
+- C) 好的气候条件与收成无关
+- D) 好的气候条件破坏了收成
 
-**2.** Selecciona la frase que corresponde al significado de "contribuir":
-- A) "No puedo creerlo" — 表示不相信
-- B) "Tengo que contribuir esto hoy" — 必须今天着手处理
-- C) "Está lloviendo mucho" — 雨下得很大
-- D) "Me gusta leer" — 我喜欢阅读
+**2.** Completa: "Todos debemos contribuir _____ la mejora de nuestra comunidad."
+- A) a
+- B) en
+- C) de
+- D) por
 
-**3.** Completa: "Es necesario _____ antes de tomar una decisión."
-- A) contribuir
-- B) contribuir lo
-- C) contribuir algo
-- D) contribuir con
+**3.** ¿Cuál es la conjugación correcta en presente de indicativo para "yo"?
+- A) contribuyo
+- B) contribuir
+- C) contribuyo
+- D) contribuí
 
-**4.** ¿Cuál es el nivel de registro de "contribuir" en este contexto?
-- A) Coloquial（口语）
-- B) Vulgar（粗俗）
-- C) Formal/Escrito（正式/书面）✅
-- D) Arcaico（过时）
+**4.** "contribuir con" se usa para indicar:
+- A) 贡献的对象
+- B) 提供的东西（资金、物资等）
+- C) 贡献的时间
+- D) 贡献的地点
 
 ### 二、近义词辨析
 
-**5.** "contribuir" es similar a:
-- A) Evitar / Evitar（避免）
-- B) Resolver / 解决 ✅
-- C) Ignorar / 忽略
-- D) Detener / 停止
+**5.** "contribuir a mejorar" es más cercano a:
+- A) empeorar（恶化）
+- B) ayudar a mejorar（帮助改善）
+- C) impedir mejorar（阻止改善）
+- D) ignorar（忽视）
 
-**6.** Indica qué palabra NO es semánticamente相近：
-- A) contribuir
-- B) realizar（实现）
-- C) completar（完成）
-- D) llorar（哭泣）✅
+**6.** ¿Cuál es la diferencia entre "contribuir a" y "contribuir con"?
+- A) Son iguales
+- B) "contribuir a" = 促成某事; "contribuir con" = 提供某物
+- C) "contribuir con" es más formal
+- D) "contribuir a" solo se usa en contextos negativos
 
-**7.** Diferencia: "contribuir" vs "evitar":
-- A) contribuir implica acción directa; evitar implica prevención
-- B) Son completamente iguales
-- C) contribuir es más formal que evitar
-- D) Evitar es más positivo
+**7.** "aportar" vs "contribuir":
+- A) Son sinónimos exactos
+- B) "aportar" es más coloquial; "contribuir" es más formal
+- C) "contribuir" solo se usa con dinero
+- D) "aportar" es incorrecto en contextos formales
 
-**8.** En la frase "Vamos a contribuir el proyecto", ¿qué significa?
-- A) Abandonar el proyecto（放弃项目）
-- B) Empezar a trabajar en el proyecto（开始着手项目）✅
-- C) Terminar el proyecto（结束项目）
-- D) Criticar el proyecto（批评项目）
+**8.** ¿Cuál NO puede sustituir a "contribuir" en "contribuir al desarrollo"?
+- A) aportar a
+- B) cooperar a
+- C) impedir
+- D) ayudar a
 
 ### 三、反义词与否定用法
 
-**9.** El antónimo de "contribuir" podría ser:
-- A) Continuar（继续）
-- B) Abandonar（放弃）✅
-- C) Mejorar（改善）
-- D) Crear（创造）
+**9.** El antónimo de "contribuir a mejorar" sería:
+- A) colaborar（合作）
+- B) perjudicar / obstaculizar（损害/阻碍）
+- C) participar（参与）
+- D) apoyar（支持）
 
-**10.** Completa la negación: "No es necesario _____ este paso."
-- A) contribuir
-- B) contribuir con
-- C) contribuir de
-- D) Ninguna de las anteriores
+**10.** "No contribuyó en nada a la solución" significa:
+- A) 为解决方案做出了巨大贡献
+- B) 对解决方案没有做出任何贡献
+- C) 不得不为解决方案做出贡献
+- D) 正在考虑为解决方案做贡献
 
 ---
 
@@ -163,16 +155,16 @@ category: DELE B2
 
 | 题号 | 答案 | 解析 |
 |------|------|------|
-| 1 | B | contribuir作为及物动词直接接宾语，表示"处理、做某事" |
-| 2 | B | "contribuir"在本句中表示着手处理，符合语境 |
-| 3 | A | 需要先对某事物进行contribuir才能做决定 |
-| 4 | C | contribuir多用于正式/书面语境 |
-| 5 | B | contribuir与resolver在语义上最接近 |
-| 6 | D | "llorar"与其他词无语义关联 |
-| 7 | A | contribuir强调直接行动，evitar强调预防避免 |
-| 8 | B | 在此语境下contribuir表示开始/着手做某事 |
-| 9 | B | abandonar（放弃）是contribuir的反义词 |
-| 10 | D | 根据具体语境选择最合适的否定形式 |
+| 1 | B | contribuir a 表示「有助于」 |
+| 2 | A | 固定搭配：contribuir a + 名词/动词原形 |
+| 3 | A | yo contribuyo（不规则变位） |
+| 4 | B | "contribuir con" 后接提供的东西 |
+| 5 | B | ayudar a mejorar 与 contribuir a mejorar 最接近 |
+| 6 | B | "a" 表示促成的事，"con" 表示提供的东西 |
+| 7 | B | aportar 偏口语，contribuir 偏正式 |
+| 8 | C | impedir（阻止）是反义词 |
+| 9 | B | perjudicar/obstaculizar 是反义词 |
+| 10 | B | "No contribuyó en nada" = 没有任何贡献 |
 
 ---
 
@@ -180,15 +172,11 @@ category: DELE B2
 
 | 词汇 | 含义 | 关系 |
 |------|------|------|
-| abordaje | 处理、登船 | 同根名词 |
-| planteamiento | 提出、规划 | 同根名词 |
-| contributivo | 贡献的 | 同根形容词 |
-| optativo | 可选择的 | 同根形容词 |
-| subsistencia | 存在、持续 | 同根名词 |
-| concretización | 具体化 | 同根名词 |
-| dilucidación | 阐明、澄清 | 同根名词 |
-| -- | -- | -- |
-| evitar | 避免 | 近义（部分语境） |
-| abandonar | 放弃 | 反义 |
-| comenzar | 开始 | 近义 |
-| resolver | 解决 | 近义 |
+| contribución | 贡献、捐款 | 派生名词 |
+| contribuyente | 纳税人、贡献者 | 派生名词/形容词 |
+| tributo | 税、贡品 | 同根词 |
+| aportar | 提供、贡献 | 近义词 |
+| cooperar | 合作 | 近义词 |
+| colaborar | 协作 | 近义词 |
+| obstaculizar | 阻碍 | 反义词 |
+| perjudicar | 损害 | 反义词 |

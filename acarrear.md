@@ -10,82 +10,71 @@ category: DELE B2
 | 项目 | 内容 |
 |------|------|
 | **单词** | **acarrear** |
-| **音标** | [a.ka.ɾeˈaɾ] |
-| **词性** | v. |
-| **核心释义** | 导致（负面）、引起、招致、带来（后果） |
+| **音标** | [a.ka.reˈaɾ] |
+| **词性** | v. tr. |
+| **核心释义** | 导致、招致（通常为负面后果）；运输、搬运 |
 
 ---
 
 ## 🧠 记忆辅助
 
 ### 联想记忆
-- **abordar**：a（去）+ bord（船舷）+ ar → 走上船舷 → 登船 → 后引申为"着手处理"
-- **conllevar**：con（一起）+ llevar（携带）→ 带着一起走 → 意味着、伴随
-- **plantear**：plan（计划）+ tear（动词后缀）→ 提出计划 → 引发表述"提出、引发"
-- **contribuir**：con（共同）+ tribut（给予）+ ir → 共同给予 → 贡献
-- **optar**：opt（选择）+ ar → 选择
-- **prescindir**：pre（提前）+ scind（切割）+ ir → 提前切除 → 放弃、省去
-- **subsistir**：sub（下）+ sist（站立）+ ir → 在下面支撑着 → 持续存在
-- **acarrear**：a（到）+ cargar（装载）+ ear → 装载运到 → 导致（负面后果）
-- **concretar**：con（完全）+ cret（筛选）+ ar → 完全筛选出来 → 具体化
-- **dilucidar**：di（分开）+ lucid（清晰）+ ar → 分开使清晰 → 阐明
+- **a-**（朝向）+ **cargar**（装载）+ **-ear**（动词后缀变体）→ 把东西装载运到某处 → 运输
+- 引申义：把（负面后果）「搬运」到某人身上 → 导致、招致
 
 ### 词源补充
-大多数动词以 **-ar** 结尾，属西班牙语第一类规则动词变位。部分动词（如 contribuer, subsistir）以 **-ir** 结尾，属第二/三类变位。
+来自西班牙语 cargar（装载）的变体形式。字面意思是「运输」，后引申为「带来（后果）」，多用于负面语境。
 
 ---
 
 ## ✏️ 核心用法
 
-### acarrear
+### 1. 导致、招致（负面后果）⭐ 最常见
+- 表示某事导致了不好的结果
+- 搭配：acarrear consecuencias / problemas / dificultades / la ruina / desastres
+- 注意：几乎只用于负面语境
 
-**1. 及物动词用法**
-- 直接接宾语，表示对某事物的处理或表达
-- 示例：acarrear un problema（处理一个问题）
+### 2. 运输、搬运（字面义，较少用）
+- 用马车或车辆运输货物
+- 搭配：acarrear trigo / materiales
 
-**2. 固定搭配/句型**
-- 常见与特定介词连用，形成固定含义
-- 示例：acarrear por + 名词（选择…）/ de + 名词（省去…）
-
-**3. 引申义**
-- 在DELE B2级别，常考其抽象引申含义
-- 区别于字面意思，理解语境中的深层含义
+### 3. 注意事项
+- **不规则性**：完全规则动词（第一变位）
+- **语体**：中性偏正式
+- **关键特征**：几乎只用于负面语境！不说 "acarrear beneficios"
+- **易混**：acarrear ≠ causar，acarrear 更强调「招致、带来」，语感更强烈
 
 ---
 
 ## 📝 例句模块
 
-### 核心用法练习
+### 导致、招致（负面后果）
 
-1. **Tenemos que acarrear este asunto lo antes posible.**
-   我们必须尽快着手处理这件事。
+1. **La crisis económica acarreó un aumento del desempleo.**
+   经济危机导致了失业率上升。
 
-2. **El proyecto conllevará muchos cambios en la empresa.**
-   这个项目将带来公司很多变革。
+2. **Sus decisiones precipitadas le acarrearon muchos problemas.**
+   他草率的决定给他带来了很多问题。
 
-3. **El gobierno planteó nuevas medidas para mejorar la educación.**
-   政府提出了改善教育的新措施。
+3. **La contaminación del río acarreó graves consecuencias para la salud de los vecinos.**
+   河流污染给居民的健康带来了严重后果。
 
-4. **Cada ciudadano puede acarrear al desarrollo del país.**
-   每个公民都可以为国家发展做出贡献。
+4. **El mal tiempo acarreó la cancelación de todos los vuelos.**
+   恶劣天气导致所有航班被取消。
 
-5. **Finalmente/decidimos acarrear por la opción más segura.**
-   最终我们选择了最安全的方案。
+5. **La falta de inversión en educación acarreará problemas graves a largo plazo.**
+   缺乏教育投资将在长期内招致严重问题。
 
-6. **Podemos acarrear de los detalles innecesarios.**
-   我们可以省去不必要的细节。
+### 运输、搬运
 
-7. **Estas tradiciones han acarrear durante siglos.**
-   这些传统已经存在了几个世纪。
+6. **Los campesinos acarreaban el trigo al mercado con sus carretas.**
+   农民们用马车把小麦运到市场。
 
-8. **La crisis económica acarreó大量失业。**
-   经济危机导致了大量失业。
+7. **Se necesitan camiones para acarrear los materiales de construcción.**
+   需要卡车来运输建筑材料。
 
-9. **Necesitamos acarrear los objetivos del proyecto.**
-   我们需要具体化项目的目标。
-
-10. **El profesor ayudó a acarrear las dudas de los estudiantes.**
-    老师帮助阐明了学生的疑惑。
+8. **Las lluvias torrenciales acarrearon toneladas de tierra y escombros al valle.**
+   暴雨把成吨的泥土和碎石冲到了山谷。
 
 ---
 
@@ -93,69 +82,69 @@ category: DELE B2
 
 ### 一、选择题（核心用法）
 
-**1.** ¿Cuál es el uso correcto de "acarrear"?
-- A) acarrear de la mesa（从桌子上…）
-- B) acarrear un problema（处理一个问题）
-- C) acarrear con el problema（和这个问题…）
-- D) acarrear para el problema
+**1.** "El escándalo acarreó la dimisión del ministro." ¿Qué significa?
+- A) 丑闻避免了部长的辞职
+- B) 丑闻导致了部长的辞职
+- C) 丑闻与部长的辞职无关
+- D) 丑闻帮助了部长
 
-**2.** Selecciona la frase que corresponde al significado de "acarrear":
-- A) "No puedo creerlo" — 表示不相信
-- B) "Tengo que acarrear esto hoy" — 必须今天着手处理
-- C) "Está lloviendo mucho" — 雨下得很大
-- D) "Me gusta leer" — 我喜欢阅读
+**2.** Completa: "La falta de planificación _____ serios inconvenientes."
+- A) acarrea
+- B) acarrea a
+- C) acarrea con
+- D) acarrea de
 
-**3.** Completa: "Es necesario _____ antes de tomar una decisión."
-- A) acarrear
-- B) acarrear lo
-- C) acarrear algo
-- D) acarrear con
+**3.** ¿En qué tipo de contextos se usa principalmente "acarrear"?
+- A) 只用于正面语境
+- B) 几乎只用于负面语境
+- C) 正面和负面均可
+- D) 只用于中性语境
 
-**4.** ¿Cuál es el nivel de registro de "acarrear" en este contexto?
-- A) Coloquial（口语）
-- B) Vulgar（粗俗）
-- C) Formal/Escrito（正式/书面）✅
-- D) Arcaico（过时）
+**4.** "acarrear consecuencias" es más cercano a:
+- A) evitar consecuencias（避免后果）
+- B) traer consecuencias（带来后果）
+- C) buscar consecuencias（寻找后果）
+- D) ignorar consecuencias（忽视后果）
 
 ### 二、近义词辨析
 
-**5.** "acarrear" es similar a:
-- A) Evitar / Evitar（避免）
-- B) Resolver / 解决 ✅
-- C) Ignorar / 忽略
-- D) Detener / 停止
+**5.** "acarrear problemas" es más cercano a:
+- A) resolver problemas（解决问题）
+- B) ocasionar problemas（引起问题）
+- C) evitar problemas（避免问题）
+- D) ignorar problemas（忽视问题）
 
-**6.** Indica qué palabra NO es semánticamente相近：
-- A) acarrear
-- B) realizar（实现）
-- C) completar（完成）
-- D) llorar（哭泣）✅
+**6.** ¿Cuál es la diferencia entre "acarrear" y "causar"?
+- A) Son sinónimos exactos
+- B) "acarrear" enfatiza el "arrastre" de consecuencias; "causar" es más neutro
+- C) "causar" es más formal
+- D) "acarrear" se usa solo con personas
 
-**7.** Diferencia: "acarrear" vs "evitar":
-- A) acarrear implica acción directa; evitar implica prevención
-- B) Son completamente iguales
-- C) acarrear es más formal que evitar
-- D) Evitar es más positivo
+**7.** "El desastre natural provocó muchas víctimas" vs "El desastre natural acarreó muchas víctimas":
+- A) Significan lo mismo
+- B) "provocó" es más directo; "acarreó" enfatiza el arrastre de consecuencias
+- C) "acarreó" es gramaticalmente incorrecto
+- D) "provocó" solo se usa en contextos positivos
 
-**8.** En la frase "Vamos a acarrear el proyecto", ¿qué significa?
-- A) Abandonar el proyecto（放弃项目）
-- B) Empezar a trabajar en el proyecto（开始着手项目）✅
-- C) Terminar el proyecto（结束项目）
-- D) Criticar el proyecto（批评项目）
+**8.** ¿Cuál NO es sinónimo de "acarrear" en el sentido de "causar"?
+- A) ocasionar
+- B) provocar
+- C) evitar
+- D) originar
 
 ### 三、反义词与否定用法
 
-**9.** El antónimo de "acarrear" podría ser:
-- A) Continuar（继续）
-- B) Abandonar（放弃）✅
-- C) Mejorar（改善）
-- D) Crear（创造）
+**9.** El antónimo de "acarrear consecuencias negativas" sería:
+- A) provocar（引发）
+- B) evitar/prevenir consecuencias（避免/预防后果）
+- C) causar（导致）
+- D) originar（引起）
 
-**10.** Completa la negación: "No es necesario _____ este paso."
-- A) acarrear
-- B) acarrear con
-- C) acarrear de
-- D) Ninguna de las anteriores
+**10.** "No acarreó ningún problema" significa:
+- A) 带来了很多问题
+- B) 没有带来任何问题
+- C) 不得不带来问题
+- D) 正在避免问题
 
 ---
 
@@ -163,16 +152,16 @@ category: DELE B2
 
 | 题号 | 答案 | 解析 |
 |------|------|------|
-| 1 | B | acarrear作为及物动词直接接宾语，表示"处理、做某事" |
-| 2 | B | "acarrear"在本句中表示着手处理，符合语境 |
-| 3 | A | 需要先对某事物进行acarrear才能做决定 |
-| 4 | C | acarrear多用于正式/书面语境 |
-| 5 | B | acarrear与resolver在语义上最接近 |
-| 6 | D | "llorar"与其他词无语义关联 |
-| 7 | A | acarrear强调直接行动，evitar强调预防避免 |
-| 8 | B | 在此语境下acarrear表示开始/着手做某事 |
-| 9 | B | abandonar（放弃）是acarrear的反义词 |
-| 10 | D | 根据具体语境选择最合适的否定形式 |
+| 1 | B | acarrear 表示「导致」负面后果 |
+| 2 | A | acarrear 是及物动词，直接接宾语 |
+| 3 | B | acarrear 几乎只用于负面语境 |
+| 4 | B | acarrear = traer（带来）负面后果 |
+| 5 | B | ocasionar（引起）与 acarrear 最接近 |
+| 6 | B | acarrear 强调「招致/带来」的语感，causar 更中性 |
+| 7 | B | provocó 更直接，acarreó 强调后果的连锁性 |
+| 8 | C | evitar（避免）是反义词 |
+| 9 | B | evitar/prevenir 是 acarrear 的反义词 |
+| 10 | B | "No acarreó ningún problema" = 没有带来任何问题 |
 
 ---
 
@@ -180,15 +169,12 @@ category: DELE B2
 
 | 词汇 | 含义 | 关系 |
 |------|------|------|
-| abordaje | 处理、登船 | 同根名词 |
-| planteamiento | 提出、规划 | 同根名词 |
-| contributivo | 贡献的 | 同根形容词 |
-| optativo | 可选择的 | 同根形容词 |
-| subsistencia | 存在、持续 | 同根名词 |
-| concretización | 具体化 | 同根名词 |
-| dilucidación | 阐明、澄清 | 同根名词 |
-| -- | -- | -- |
-| evitar | 避免 | 近义（部分语境） |
-| abandonar | 放弃 | 反义 |
-| comenzar | 开始 | 近义 |
-| resolver | 解决 | 近义 |
+| acarreo | 运输、搬运 | 派生名词 |
+| cargar | 装载 | 词根词 |
+| causar | 导致 | 近义词 |
+| ocasionar | 引起 | 近义词 |
+| provocar | 引发 | 近义词 |
+| originar | 起源、引起 | 近义词 |
+| conllevar | 带有、意味着 | 近义词 |
+| evitar | 避免 | 反义词 |
+| prevenir | 预防 | 反义词 |

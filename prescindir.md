@@ -11,81 +11,76 @@ category: DELE B2
 |------|------|
 | **单词** | **prescindir** |
 | **音标** | [pɾes.θinˈdiɾ] |
-| **词性** | v. |
-| **核心释义** | 省去、放弃、摒弃、舍弃（后接de） |
+| **词性** | v. intr. |
+| **核心释义** | 放弃、省去；不依赖；解雇、辞退 |
 
 ---
 
 ## 🧠 记忆辅助
 
 ### 联想记忆
-- **abordar**：a（去）+ bord（船舷）+ ar → 走上船舷 → 登船 → 后引申为"着手处理"
-- **conllevar**：con（一起）+ llevar（携带）→ 带着一起走 → 意味着、伴随
-- **plantear**：plan（计划）+ tear（动词后缀）→ 提出计划 → 引发表述"提出、引发"
-- **contribuir**：con（共同）+ tribut（给予）+ ir → 共同给予 → 贡献
-- **optar**：opt（选择）+ ar → 选择
-- **prescindir**：pre（提前）+ scind（切割）+ ir → 提前切除 → 放弃、省去
-- **subsistir**：sub（下）+ sist（站立）+ ir → 在下面支撑着 → 持续存在
-- **acarrear**：a（到）+ cargar（装载）+ ear → 装载运到 → 导致（负面后果）
-- **concretar**：con（完全）+ cret（筛选）+ ar → 完全筛选出来 → 具体化
-- **dilucidar**：di（分开）+ lucid（清晰）+ ar → 分开使清晰 → 阐明
+- **pre-**（提前/之前）+ **scind**（切割，如 scissors 剪刀）+ **-ir**（动词后缀）
+- 提前把某物切割掉 → 省去、放弃
+- 联想：在做计划之前，先把不需要的部分「剪掉」→ 省去不需要的东西
 
 ### 词源补充
-大多数动词以 **-ar** 结尾，属西班牙语第一类规则动词变位。部分动词（如 contribuer, subsistir）以 **-ir** 结尾，属第二/三类变位。
+来自拉丁语 praescindere（pre- 提前 + scindere 切割）。字面意思是「提前切掉」，引申为「放弃、不需要」。
 
 ---
 
 ## ✏️ 核心用法
 
-### prescindir
+### 1. prescindir de + 名词/动词原形 ⭐ 最常见
+- 放弃…；省去…；不需要…
+- 例：prescindir de algo / de alguien / de hacer algo
 
-**1. 及物动词用法**
-- 直接接宾语，表示对某事物的处理或表达
-- 示例：prescindir un problema（处理一个问题）
+### 2. 不依赖、没有…也行
+- 表示没有某物/某人也能做到
+- 例：Podemos prescindir de tu ayuda.（没有你的帮助我们也行。）
 
-**2. 固定搭配/句型**
-- 常见与特定介词连用，形成固定含义
-- 示例：prescindir por + 名词（选择…）/ de + 名词（省去…）
+### 3. 解雇、辞退（较正式）
+- 表示辞退某人
+- 例：prescindir de los servicios de alguien
 
-**3. 引申义**
-- 在DELE B2级别，常考其抽象引申含义
-- 区别于字面意思，理解语境中的深层含义
+### 4. 注意事项
+- **不规则性**：完全规则动词（第三变位 -ir）
+- **语体**：偏正式/书面
+- **关键搭配**：必须与 **de** 搭配使用（prescindir **de**）
+- **易错点**：不能省略 de，不能说 "prescindir algo"
 
 ---
 
 ## 📝 例句模块
 
-### 核心用法练习
+### 放弃、省去
 
-1. **Tenemos que prescindir este asunto lo antes posible.**
-   我们必须尽快着手处理这件事。
+1. **Para ahorrar dinero, tendremos que prescindir de algunos lujos.**
+   为了省钱，我们将不得不放弃一些奢侈消费。
 
-2. **El proyecto conllevará muchos cambios en la empresa.**
-   这个项目将带来公司很多变革。
+2. **El informe es demasiado largo; podemos prescindir de esta sección.**
+   报告太长了；我们可以省去这一部分。
 
-3. **El gobierno planteó nuevas medidas para mejorar la educación.**
-   政府提出了改善教育的新措施。
+3. **No puedo prescindir del café por las mañanas, lo necesito para despertar.**
+   我早上离不开咖啡，我需要它来提神。
 
-4. **Cada ciudadano puede prescindir al desarrollo del país.**
-   每个公民都可以为国家发展做出贡献。
+### 不依赖、没有…也行
 
-5. **Finalmente/decidimos prescindir por la opción más segura.**
-   最终我们选择了最安全的方案。
+4. **Es un equipo muy capaz que puede prescindir de la supervisión constante.**
+   这是一个非常有能力的团队，不需要持续监督。
 
-6. **Podemos prescindir de los detalles innecesarios.**
-   我们可以省去不必要的细节。
+5. **El restaurante funciona perfectamente prescindiendo de plásticos de un solo uso.**
+   这家餐厅完全不使用一次性塑料，照样运营得很好。
 
-7. **Estas tradiciones han prescindir durante siglos.**
-   这些传统已经存在了几个世纪。
+### 解雇、辞退
 
-8. **La crisis económica acarreó大量失业。**
-   经济危机导致了大量失业。
+6. **La empresa decidió prescindir de sus servicios por los recortes presupuestarios.**
+   公司因预算削减决定解雇他。
 
-9. **Necesitamos prescindir los objetivos del proyecto.**
-   我们需要具体化项目的目标。
+7. **Prescindieron de varios empleados durante la crisis económica.**
+   经济危机期间他们辞退了几名员工。
 
-10. **El profesor ayudó a prescindir las dudas de los estudiantes.**
-    老师帮助阐明了学生的疑惑。
+8. **El entrenador fue prescindido tras la mala temporada.**
+   教练在糟糕的赛季后被解雇了。（被动语态较少用，更常见 la dirección prescindió del entrenador）
 
 ---
 
@@ -93,69 +88,69 @@ category: DELE B2
 
 ### 一、选择题（核心用法）
 
-**1.** ¿Cuál es el uso correcto de "prescindir"?
-- A) prescindir de la mesa（从桌子上…）
-- B) prescindir un problema（处理一个问题）
-- C) prescindir con el problema（和这个问题…）
-- D) prescindir para el problema
+**1.** "Podemos prescindir de esta reunión." ¿Qué significa?
+- A) 我们必须召开这个会议
+- B) 我们可以省去/不需要这个会议
+- C) 我们应该安排这个会议
+- D) 我们已经开了这个会议
 
-**2.** Selecciona la frase que corresponde al significado de "prescindir":
-- A) "No puedo creerlo" — 表示不相信
-- B) "Tengo que prescindir esto hoy" — 必须今天着手处理
-- C) "Está lloviendo mucho" — 雨下得很大
-- D) "Me gusta leer" — 我喜欢阅读
+**2.** Completa: "No puedo prescindir _____ mi teléfono móvil."
+- A) a
+- B) en
+- C) de
+- D) con
 
-**3.** Completa: "Es necesario _____ antes de tomar una decisión."
-- A) prescindir
-- B) prescindir lo
-- C) prescindir algo
-- D) prescindir con
+**3.** ¿Cuál estructura es CORRECTA?
+- A) prescindir algo
+- B) prescindir de algo
+- C) prescindir con algo
+- D) prescindir para algo
 
-**4.** ¿Cuál es el nivel de registro de "prescindir" en este contexto?
-- A) Coloquial（口语）
-- B) Vulgar（粗俗）
-- C) Formal/Escrito（正式/书面）✅
-- D) Arcaico（过时）
+**4.** "La empresa prescindió de sus servicios" significa:
+- A) 公司提高了他的薪水
+- B) 公司解雇了他
+- C) 公司给他升职了
+- D) 公司与他签了新合同
 
 ### 二、近义词辨析
 
-**5.** "prescindir" es similar a:
-- A) Evitar / Evitar（避免）
-- B) Resolver / 解决 ✅
-- C) Ignorar / 忽略
-- D) Detener / 停止
+**5.** "prescindir de algo" es más cercano a:
+- A) necesitar algo（需要某物）
+- B) prescindir de algo = prescindir de algo（不需要某物）
+- C) buscar algo（寻找某物）
+- D) mantener algo（保持某物）
 
-**6.** Indica qué palabra NO es semánticamente相近：
-- A) prescindir
-- B) realizar（实现）
-- C) completar（完成）
-- D) llorar（哭泣）✅
+**6.** ¿Cuál es la diferencia entre "prescindir de" y "renunciar a"?
+- A) Son sinónimos exactos
+- B) "prescindir de" = 不需要; "renunciar a" = 主动放弃
+- C) "renunciar a" es más formal
+- D) "prescindir de" solo se usa con personas
 
-**7.** Diferencia: "prescindir" vs "evitar":
-- A) prescindir implica acción directa; evitar implica prevención
-- B) Son completamente iguales
-- C) prescindir es más formal que evitar
-- D) Evitar es más positivo
+**7.** "No podemos prescindir de ti" vs "No podemos sin ti":
+- A) Significan lo mismo
+- B) "prescindir de" es más formal y enfático
+- C) "sin ti" es más formal
+- D) "prescindir de" es gramaticalmente incorrecto
 
-**8.** En la frase "Vamos a prescindir el proyecto", ¿qué significa?
-- A) Abandonar el proyecto（放弃项目）
-- B) Empezar a trabajar en el proyecto（开始着手项目）✅
-- C) Terminar el proyecto（结束项目）
-- D) Criticar el proyecto（批评项目）
+**8.** ¿Cuál NO es sinónimo de "prescindir de"?
+- A) eliminar
+- B) suprimir
+- C) necesitar
+- D) obviar
 
 ### 三、反义词与否定用法
 
-**9.** El antónimo de "prescindir" podría ser:
-- A) Continuar（继续）
-- B) Abandonar（放弃）✅
-- C) Mejorar（改善）
-- D) Crear（创造）
+**9.** El antónimo de "prescindir de" sería:
+- A) eliminar（消除）
+- B) necesitar / requerir（需要）
+- C) suprimir（取消）
+- D) obviar（省略）
 
-**10.** Completa la negación: "No es necesario _____ este paso."
-- A) prescindir
-- B) prescindir con
-- C) prescindir de
-- D) Ninguna de las anteriores
+**10.** "Es imposible prescindir de la electricidad en la vida moderna" significa:
+- A) 现代生活中可以不需要电
+- B) 现代生活中不可能不需要电
+- C) 电在现代生活中不重要
+- D) 现代生活中电力过剩
 
 ---
 
@@ -163,16 +158,16 @@ category: DELE B2
 
 | 题号 | 答案 | 解析 |
 |------|------|------|
-| 1 | B | prescindir作为及物动词直接接宾语，表示"处理、做某事" |
-| 2 | B | "prescindir"在本句中表示着手处理，符合语境 |
-| 3 | A | 需要先对某事物进行prescindir才能做决定 |
-| 4 | C | prescindir多用于正式/书面语境 |
-| 5 | B | prescindir与resolver在语义上最接近 |
-| 6 | D | "llorar"与其他词无语义关联 |
-| 7 | A | prescindir强调直接行动，evitar强调预防避免 |
-| 8 | B | 在此语境下prescindir表示开始/着手做某事 |
-| 9 | B | abandonar（放弃）是prescindir的反义词 |
-| 10 | D | 根据具体语境选择最合适的否定形式 |
+| 1 | B | prescindir de 表示「省去、不需要」 |
+| 2 | C | 固定搭配：prescindir de |
+| 3 | B | prescindir 必须与 de 搭配 |
+| 4 | B | prescindir de sus servicios = 解雇 |
+| 5 | B | prescindir de 表示不需要 |
+| 6 | B | prescindir de 更强调「不需要」，renunciar a 强调「主动放弃」 |
+| 7 | B | prescindir de 更正式、更强调 |
+| 8 | C | necesitar（需要）是反义词 |
+| 9 | B | necesitar/requerir 是 prescindir de 的反义词 |
+| 10 | B | "Es imposible prescindir de" = 不可能不需要 |
 
 ---
 
@@ -180,15 +175,11 @@ category: DELE B2
 
 | 词汇 | 含义 | 关系 |
 |------|------|------|
-| abordaje | 处理、登船 | 同根名词 |
-| planteamiento | 提出、规划 | 同根名词 |
-| contributivo | 贡献的 | 同根形容词 |
-| optativo | 可选择的 | 同根形容词 |
-| subsistencia | 存在、持续 | 同根名词 |
-| concretización | 具体化 | 同根名词 |
-| dilucidación | 阐明、澄清 | 同根名词 |
-| -- | -- | -- |
-| evitar | 避免 | 近义（部分语境） |
-| abandonar | 放弃 | 反义 |
-| comenzar | 开始 | 近义 |
-| resolver | 解决 | 近义 |
+| prescindible | 可有可无的、非必要的 | 派生形容词 |
+| imprescindible | 必不可少的 | 反义派生形容词 |
+| escindir | 分裂、割裂 | 同根词 |
+| renunciar a | 放弃 | 近义词 |
+| eliminar | 消除 | 近义词 |
+| suprimir | 取消 | 近义词 |
+| necesitar | 需要 | 反义词 |
+| requerir | 需要、要求 | 反义词 |

@@ -11,81 +11,69 @@ category: DELE B2
 |------|------|
 | **单词** | **subsistir** |
 | **音标** | [sub.sisˈtiɾ] |
-| **词性** | v. |
-| **核心释义** | 存在、持续、存活、维持生计 |
+| **词性** | v. intr. |
+| **核心释义** | 存在、持续；维持生计 |
 
 ---
 
 ## 🧠 记忆辅助
 
 ### 联想记忆
-- **abordar**：a（去）+ bord（船舷）+ ar → 走上船舷 → 登船 → 后引申为"着手处理"
-- **conllevar**：con（一起）+ llevar（携带）→ 带着一起走 → 意味着、伴随
-- **plantear**：plan（计划）+ tear（动词后缀）→ 提出计划 → 引发表述"提出、引发"
-- **contribuir**：con（共同）+ tribut（给予）+ ir → 共同给予 → 贡献
-- **optar**：opt（选择）+ ar → 选择
-- **prescindir**：pre（提前）+ scind（切割）+ ir → 提前切除 → 放弃、省去
-- **subsistir**：sub（下）+ sist（站立）+ ir → 在下面支撑着 → 持续存在
-- **acarrear**：a（到）+ cargar（装载）+ ear → 装载运到 → 导致（负面后果）
-- **concretar**：con（完全）+ cret（筛选）+ ar → 完全筛选出来 → 具体化
-- **dilucidar**：di（分开）+ lucid（清晰）+ ar → 分开使清晰 → 阐明
+- **sub-**（在下面）+ **sistir**（站立，如 insistir, resistir）→ 在下面支撑着站立 → 存在、持续
+- 联想：一个人在困难中仍然「站在下面」支撑着 → 维持生计、存活
 
 ### 词源补充
-大多数动词以 **-ar** 结尾，属西班牙语第一类规则动词变位。部分动词（如 contribuer, subsistir）以 **-ir** 结尾，属第二/三类变位。
+来自拉丁语 subsistere（sub- 在下面 + sistere 站立/停止）。字面意思是「在下面站住」→ 继续存在、持续。
 
 ---
 
 ## ✏️ 核心用法
 
-### subsistir
+### 1. 存在、持续（不及物）⭐ 正式用法
+- 表示某事物继续存在
+- 例：Estas tradiciones subsisten desde hace siglos.（这些传统持续存在了几个世纪。）
 
-**1. 及物动词用法**
-- 直接接宾语，表示对某事物的处理或表达
-- 示例：subsistir un problema（处理一个问题）
+### 2. 维持生计、生存
+- 表示勉强维持生活
+- 例：subsistir con poco dinero（靠很少的钱维持生计）
 
-**2. 固定搭配/句型**
-- 常见与特定介词连用，形成固定含义
-- 示例：subsistir por + 名词（选择…）/ de + 名词（省去…）
-
-**3. 引申义**
-- 在DELE B2级别，常考其抽象引申含义
-- 区别于字面意思，理解语境中的深层含义
+### 3. 注意事项
+- **不规则性**：完全规则动词（第三变位 -ir）
+- **语体**：正式/书面，口语中更常用 existir 或 sobrevivir
+- **易混**：subsistir ≠ existir，subsistir 更强调「艰难地持续存在」
+- **名词形式**：subsistencia（生计、生存）
 
 ---
 
 ## 📝 例句模块
 
-### 核心用法练习
+### 存在、持续
 
-1. **Tenemos que subsistir este asunto lo antes posible.**
-   我们必须尽快着手处理这件事。
+1. **A pesar de la modernización, estas costumbres todavía subsisten en zonas rurales.**
+   尽管现代化进程，这些习俗在农村地区仍然存在。
 
-2. **El proyecto conllevará muchos cambios en la empresa.**
-   这个项目将带来公司很多变革。
+2. **El debate sobre la igualdad de género subsiste desde hace décadas.**
+   关于性别平等的辩论已经持续了几十年。
 
-3. **El gobierno planteó nuevas medidas para mejorar la educación.**
-   政府提出了改善教育的新措施。
+3. **Muchas especies en peligro de extinción luchan por subsistir en su hábitat natural.**
+   许多濒危物种在自然栖息地中挣扎求存。
 
-4. **Cada ciudadano puede subsistir al desarrollo del país.**
-   每个公民都可以为国家发展做出贡献。
+4. **Las diferencias sociales subsisten a pesar de los esfuerzos del gobierno.**
+   尽管政府做出了努力，社会差异仍然存在。
 
-5. **Finalmente/decidimos subsistir por la opción más segura.**
-   最终我们选择了最安全的方案。
+### 维持生计
 
-6. **Podemos subsistir de los detalles innecesarios.**
-   我们可以省去不必要的细节。
+5. **Muchas familias apenas pueden subsistir con el salario mínimo.**
+   许多家庭仅靠最低工资勉强维持生计。
 
-7. **Estas tradiciones han subsistir durante siglos.**
-   这些传统已经存在了几个世纪。
+6.**Durante la guerra, la gente subsistía a base de pan y agua.**
+   战争期间，人们靠面包和水维持生存。
 
-8. **La crisis económica acarreó大量失业。**
-   经济危机导致了大量失业。
+7. **Los agricultores de esta región subsisten gracias a la agricultura de subsistencia.**
+   这个地区的农民靠自给自足的农业维持生计。
 
-9. **Necesitamos subsistir los objetivos del proyecto.**
-   我们需要具体化项目的目标。
-
-10. **El profesor ayudó a subsistir las dudas de los estudiantes.**
-    老师帮助阐明了学生的疑惑。
+8. **Es difícil subsistir en una ciudad tan cara con un trabajo tan mal pagado.**
+   在这么昂贵的城市里，靠一份工资这么低的工作很难维持生计。
 
 ---
 
@@ -93,69 +81,69 @@ category: DELE B2
 
 ### 一、选择题（核心用法）
 
-**1.** ¿Cuál es el uso correcto de "subsistir"?
-- A) subsistir de la mesa（从桌子上…）
-- B) subsistir un problema（处理一个问题）
-- C) subsistir con el problema（和这个问题…）
-- D) subsistir para el problema
+**1.** "Estas supersticiones subsisten en algunas comunidades." ¿Qué significa?
+- A) 这些迷信在一些社区中已经消失了
+- B) 这些迷信在一些社区中仍然存在
+- C) 这些迷信在一些社区中很流行
+- D) 这些迷信在一些社区中被反对
 
-**2.** Selecciona la frase que corresponde al significado de "subsistir":
-- A) "No puedo creerlo" — 表示不相信
-- B) "Tengo que subsistir esto hoy" — 必须今天着手处理
-- C) "Está lloviendo mucho" — 雨下得很大
-- D) "Me gusta leer" — 我喜欢阅读
-
-**3.** Completa: "Es necesario _____ antes de tomar una decisión."
+**2.** Completa: "Los refugiados apenas pueden _____ con la ayuda humanitaria."
 - A) subsistir
-- B) subsistir lo
-- C) subsistir algo
-- D) subsistir con
+- B) subsistir de
+- C) subsistir con
+- D) subsistir en
 
-**4.** ¿Cuál es el nivel de registro de "subsistir" en este contexto?
-- A) Coloquial（口语）
-- B) Vulgar（粗俗）
-- C) Formal/Escrito（正式/书面）✅
-- D) Arcaico（过时）
+**3.** ¿Cuál es el registro de uso de "subsistir"?
+- A) 口语/日常对话
+- B) 正式/书面语
+- C) 俚语
+- D) 古语/过时
+
+**4.** "subsistencia" significa:
+- A) 生存、生计
+- B) 繁荣
+- C) 失败
+- D) 成功
 
 ### 二、近义词辨析
 
-**5.** "subsistir" es similar a:
-- A) Evitar / Evitar（避免）
-- B) Resolver / 解决 ✅
-- C) Ignorar / 忽略
-- D) Detener / 停止
+**5.** "subsistir" es más cercano a:
+- A) desaparecer（消失）
+- B) perdurar / persistir（持续）
+- C) florecer（繁荣）
+- D) morir（死亡）
 
-**6.** Indica qué palabra NO es semánticamente相近：
-- A) subsistir
-- B) realizar（实现）
-- C) completar（完成）
-- D) llorar（哭泣）✅
+**6.** ¿Cuál es la diferencia entre "subsistir" y "existir"?
+- A) Son sinónimos exactos
+- B) "subsistir" enfatiza la supervivencia/continuidad a pesar de dificultades
+- C) "existir" es más formal
+- D) "subsistir" solo se usa con personas
 
-**7.** Diferencia: "subsistir" vs "evitar":
-- A) subsistir implica acción directa; evitar implica prevención
-- B) Son completamente iguales
-- C) subsistir es más formal que evitar
-- D) Evitar es más positivo
+**7.** "sobrevivir" vs "subsistir":
+- A) Son sinónimos exactos
+- B) "sobrevivir" enfatiza sobrevivir a un evento; "subsistir" enfatiza la continuidad
+- C) "subsistir" es más coloquial
+- D) "sobrevivir" es incorrecto en contextos formales
 
-**8.** En la frase "Vamos a subsistir el proyecto", ¿qué significa?
-- A) Abandonar el proyecto（放弃项目）
-- B) Empezar a trabajar en el proyecto（开始着手项目）✅
-- C) Terminar el proyecto（结束项目）
-- D) Criticar el proyecto（批评项目）
+**8.** ¿Cuál NO es sinónimo de "subsistir"?
+- A) perdurar
+- B) persistir
+- C) extinguirse
+- D) continuar
 
 ### 三、反义词与否定用法
 
-**9.** El antónimo de "subsistir" podría ser:
-- A) Continuar（继续）
-- B) Abandonar（放弃）✅
-- C) Mejorar（改善）
-- D) Crear（创造）
+**9.** El antónimo de "subsistir" sería:
+- A) perdurar（持续）
+- B) extinguirse / desaparecer（灭绝/消失）
+- C) persistir（坚持）
+- D) continuar（继续）
 
-**10.** Completa la negación: "No es necesario _____ este paso."
-- A) subsistir
-- B) subsistir con
-- C) subsistir de
-- D) Ninguna de las anteriores
+**10.** "Esta especie ya no subsiste en la región" significa:
+- A) 这个物种在该地区仍然存在
+- B) 这个物种在该地区已经不存在了
+- C) 这个物种在该地区很繁荣
+- D) 这个物种刚被引入该地区
 
 ---
 
@@ -163,16 +151,16 @@ category: DELE B2
 
 | 题号 | 答案 | 解析 |
 |------|------|------|
-| 1 | B | subsistir作为及物动词直接接宾语，表示"处理、做某事" |
-| 2 | B | "subsistir"在本句中表示着手处理，符合语境 |
-| 3 | A | 需要先对某事物进行subsistir才能做决定 |
-| 4 | C | subsistir多用于正式/书面语境 |
-| 5 | B | subsistir与resolver在语义上最接近 |
-| 6 | D | "llorar"与其他词无语义关联 |
-| 7 | A | subsistir强调直接行动，evitar强调预防避免 |
-| 8 | B | 在此语境下subsistir表示开始/着手做某事 |
-| 9 | B | abandonar（放弃）是subsistir的反义词 |
-| 10 | D | 根据具体语境选择最合适的否定形式 |
+| 1 | B | subsistir 表示「仍然存在」 |
+| 2 | A | subsistir 作不及物动词，直接使用 |
+| 3 | B | subsistir 属于正式/书面用语 |
+| 4 | A | subsistencia = 生存、生计 |
+| 5 | B | perdurar/persistir 与 subsistir 最接近 |
+| 6 | B | subsistir 更强调在困难中持续存在 |
+| 7 | B | sobrevivir 强调度过危机，subsistir 强调持续存在 |
+| 8 | C | extinguirse（灭绝）是反义词 |
+| 9 | B | extinguirse/desaparecer 是 subsistir 的反义词 |
+| 10 | B | "ya no subsiste" = 已经不存在了 |
 
 ---
 
@@ -180,15 +168,11 @@ category: DELE B2
 
 | 词汇 | 含义 | 关系 |
 |------|------|------|
-| abordaje | 处理、登船 | 同根名词 |
-| planteamiento | 提出、规划 | 同根名词 |
-| contributivo | 贡献的 | 同根形容词 |
-| optativo | 可选择的 | 同根形容词 |
-| subsistencia | 存在、持续 | 同根名词 |
-| concretización | 具体化 | 同根名词 |
-| dilucidación | 阐明、澄清 | 同根名词 |
-| -- | -- | -- |
-| evitar | 避免 | 近义（部分语境） |
-| abandonar | 放弃 | 反义 |
-| comenzar | 开始 | 近义 |
-| resolver | 解决 | 近义 |
+| subsistencia | 生存、生计 | 派生名词 |
+| existir | 存在 | 近义词 |
+| perdurar | 持续 | 近义词 |
+| persistir | 坚持、持续 | 近义词 |
+| sobrevivir | 存活、幸存 | 近义词 |
+| extinguirse | 灭绝 | 反义词 |
+| desaparecer | 消失 | 反义词 |
+| perecer | 死亡 | 反义词 |
