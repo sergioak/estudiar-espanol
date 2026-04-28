@@ -1,140 +1,194 @@
-# concretar
+---
+name: concretar
+category: DELE B2
+---
 
-## 📖 基础信息
+# 📖 CONCRETAR
+
+## 基础信息
 
 | 项目 | 内容 |
 |------|------|
 | **单词** | **concretar** |
-| 音标 | [kon.kɾeˈtar] |
-| 词性 | v.tr./prnl. 及物/自反动词（第一变位） |
-| 核心释义 | 具体化、明确、落实 |
+| **音标** | [kon.kɾeˈtaɾ] |
+| **词性** | v. |
+| **核心释义** | 具体化、落实、实现、完成 |
+
+---
 
 ## 🧠 记忆辅助
 
-- **联想记忆**：concretar 与 concreto（具体的/混凝土）同源。想象把一个模糊的想法像"浇筑混凝土"一样变成具体的、实在的东西。"抽象 → 具体" 的过程。
-- **词源补充**：来自拉丁语 concrescere（con- 一起 + crescere 生长），字面意思是"一起生长/凝结"，引申为"变得具体/实在"。与英语 concrete（具体的/混凝土）同源。
+### 联想记忆
+- **abordar**：a（去）+ bord（船舷）+ ar → 走上船舷 → 登船 → 后引申为"着手处理"
+- **conllevar**：con（一起）+ llevar（携带）→ 带着一起走 → 意味着、伴随
+- **plantear**：plan（计划）+ tear（动词后缀）→ 提出计划 → 引发表述"提出、引发"
+- **contribuir**：con（共同）+ tribut（给予）+ ir → 共同给予 → 贡献
+- **optar**：opt（选择）+ ar → 选择
+- **prescindir**：pre（提前）+ scind（切割）+ ir → 提前切除 → 放弃、省去
+- **subsistir**：sub（下）+ sist（站立）+ ir → 在下面支撑着 → 持续存在
+- **acarrear**：a（到）+ cargar（装载）+ ear → 装载运到 → 导致（负面后果）
+- **concretar**：con（完全）+ cret（筛选）+ ar → 完全筛选出来 → 具体化
+- **dilucidar**：di（分开）+ lucid（清晰）+ ar → 分开使清晰 → 阐明
+
+### 词源补充
+大多数动词以 **-ar** 结尾，属西班牙语第一类规则动词变位。部分动词（如 contribuer, subsistir）以 **-ir** 结尾，属第二/三类变位。
+
+---
 
 ## ✏️ 核心用法
 
-**1. concretar algo（使具体化/明确）**
-将模糊的想法或计划变为具体的。
+### concretar
 
-**2. concretarse en algo（限于/专注于）**
-自反形式，表示将注意力集中在某一点上。
+**1. 及物动词用法**
+- 直接接宾语，表示对某事物的处理或表达
+- 示例：concretar un problema（处理一个问题）
 
-**3. concretar una cita/plan（确定/敲定）**
-用于安排具体的时间或计划。
+**2. 固定搭配/句型**
+- 常见与特定介词连用，形成固定含义
+- 示例：concretar por + 名词（选择…）/ de + 名词（省去…）
+
+**3. 引申义**
+- 在DELE B2级别，常考其抽象引申含义
+- 区别于字面意思，理解语境中的深层含义
+
+---
 
 ## 📝 例句模块
 
-**1.** Necesitamos concretar los detalles del proyecto antes de empezar.
-我们需要在开始之前确定项目的细节。
+### 核心用法练习
 
-**2.** El ministro concretó las medidas que se tomarán.
-部长明确了将要采取的措施。
+1. **Tenemos que concretar este asunto lo antes posible.**
+   我们必须尽快着手处理这件事。
 
-**3.** ¿Podemos concretar una fecha para la reunión?
-我们能确定一个会议日期吗？
+2. **El proyecto conllevará muchos cambios en la empresa.**
+   这个项目将带来公司很多变革。
 
-**4.** La discusión se concretó en tres puntos principales.
-讨论集中在三个主要问题上。
+3. **El gobierno planteó nuevas medidas para mejorar la educación.**
+   政府提出了改善教育的新措施。
 
-**5.** Es necesario concretar las ideas antes de presentarlas al jefe.
-有必要在向老板汇报之前把想法具体化。
+4. **Cada ciudadano puede concretar al desarrollo del país.**
+   每个公民都可以为国家发展做出贡献。
 
-**6.** La artista concretó su visión en una serie de pinturas.
-艺术家将她的构想落实在一系列画作中。
+5. **Finalmente/decidimos concretar por la opción más segura.**
+   最终我们选择了最安全的方案。
 
-**7.** Vamos a concretar los términos del contrato.
-我们来敲定合同条款。
+6. **Podemos concretar de los detalles innecesarios.**
+   我们可以省去不必要的细节。
 
-**8.** Sus palabras eran vagas; necesitaba concretar más.
-他的话很模糊；需要说得更具体些。
+7. **Estas tradiciones han concretar durante siglos.**
+   这些传统已经存在了几个世纪。
+
+8. **La crisis económica acarreó大量失业。**
+   经济危机导致了大量失业。
+
+9. **Necesitamos concretar los objetivos del proyecto.**
+   我们需要具体化项目的目标。
+
+10. **El profesor ayudó a concretar las dudas de los estudiantes.**
+    老师帮助阐明了学生的疑惑。
+
+---
 
 ## 📋 习题模块
 
-**1.** "Concretar los detalles" significa:
-- A) Olvidar los detalles.
-- B) Hacer los detalles específicos/claros.
-- C) Eliminar los detalles.
-- D) Confundir los detalles.
+### 一、选择题（核心用法）
 
-**2.** Completa: "Necesitamos ___ una fecha para el evento."
+**1.** ¿Cuál es el uso correcto de "concretar"?
+- A) concretar de la mesa（从桌子上…）
+- B) concretar un problema（处理一个问题）
+- C) concretar con el problema（和这个问题…）
+- D) concretar para el problema
+
+**2.** Selecciona la frase que corresponde al significado de "concretar":
+- A) "No puedo creerlo" — 表示不相信
+- B) "Tengo que concretar esto hoy" — 必须今天着手处理
+- C) "Está lloviendo mucho" — 雨下得很大
+- D) "Me gusta leer" — 我喜欢阅读
+
+**3.** Completa: "Es necesario _____ antes de tomar una decisión."
 - A) concretar
-- B) concretar a
-- C) concretar en
-- D) concretar por
+- B) concretar lo
+- C) concretar algo
+- D) concretar con
 
-**3.** ¿Cuál es un sinónimo de "concretar"?
-- A) Generalizar
-- B) Especificar
-- C) Vaguear
-- D) Abstraer
+**4.** ¿Cuál es el nivel de registro de "concretar" en este contexto?
+- A) Coloquial（口语）
+- B) Vulgar（粗俗）
+- C) Formal/Escrito（正式/书面）✅
+- D) Arcaico（过时）
 
-**4.** "La reunión se concretó en un solo tema." ¿Qué significa?
-- A) La reunión trataba muchos temas.
-- B) La reunión se centró/limitó a un tema.
-- C) La reunión fue cancelada.
-- D) La reunión duró poco.
+### 二、近义词辨析
 
-**5.** ¿Cuál es el antónimo de "concretar"?
-- A) Especificar
-- B) Generalizar/abstractizar
-- C) Detallar
-- D) Precisar
+**5.** "concretar" es similar a:
+- A) Evitar / Evitar（避免）
+- B) Resolver / 解决 ✅
+- C) Ignorar / 忽略
+- D) Detener / 停止
 
-**6.** Completa: "El plan todavía no está ___; necesitamos más información."
-- A) concretado
-- B) concreto
-- C) concretando
-- D) A y B son correctas
+**6.** Indica qué palabra NO es semánticamente相近：
+- A) concretar
+- B) realizar（实现）
+- C) completar（完成）
+- D) llorar（哭泣）✅
 
-**7.** "Concretar" y "especificar" ¿son sinónimos exactos?
-- A) Sí, son intercambiables siempre.
-- B) No, "concretar" se centra en hacer tangible; "especificar" en dar detalles.
-- C) No, "concretar" es informal.
-- D) Sí, pero solo en América.
+**7.** Diferencia: "concretar" vs "evitar":
+- A) concretar implica acción directa; evitar implica prevención
+- B) Son completamente iguales
+- C) concretar es más formal que evitar
+- D) Evitar es más positivo
 
-**8.** "La propuesta debe concretarse en acciones." ¿Es correcto?
-- A) Sí, significa que debe traducirse en acciones concretas.
-- B) No, debería ser "concretarse a".
-- C) No, "concretar" no se usa como reflexivo.
-- D) Sí, pero solo en contextos legales.
+**8.** En la frase "Vamos a concretar el proyecto", ¿qué significa?
+- A) Abandonar el proyecto（放弃项目）
+- B) Empezar a trabajar en el proyecto（开始着手项目）✅
+- C) Terminar el proyecto（结束项目）
+- D) Criticar el proyecto（批评项目）
 
-**9.** ¿Cuál es la forma nominal de "concretar"?
-- A) Concreción
-- B) Concretamiento
-- C) Concretitud
-- D) Concretismo
+### 三、反义词与否定用法
 
-**10.** Completa: "El profesor pidió a los alumnos que ___ sus respuestas."
-- A) concretaran
-- B) concretasen
-- C) A y B son correctas
-- D) concretan
+**9.** El antónimo de "concretar" podría ser:
+- A) Continuar（继续）
+- B) Abandonar（放弃）✅
+- C) Mejorar（改善）
+- D) Crear（创造）
+
+**10.** Completa la negación: "No es necesario _____ este paso."
+- A) concretar
+- B) concretar con
+- C) concretar de
+- D) Ninguna de las anteriores
+
+---
 
 ### 参考答案
 
 | 题号 | 答案 | 解析 |
 |------|------|------|
-| 1 | B | concretar = 使具体化/明确 |
-| 2 | A | "concretar una fecha" = 确定日期 |
-| 3 | B | especificar（具体说明）是近义词 |
-| 4 | B | "concretarse en" = 集中于/限于 |
-| 5 | B | generalizar（泛化）是 concretar（具体化）的反义 |
-| 6 | D | "concretado"（过去分词）和 "concreto"（形容词）都可用 |
-| 7 | B | concretar 侧重使之实在；especificar 侧重给出细节 |
-| 8 | A | "concretarse en" = 转化为/落实为 |
-| 9 | A | concreción（具体化/凝结）是 concretar 的名词形式 |
-| 10 | C | subjuntivo 的 -ran 和 -sen 形式都正确 |
+| 1 | B | concretar作为及物动词直接接宾语，表示"处理、做某事" |
+| 2 | B | "concretar"在本句中表示着手处理，符合语境 |
+| 3 | A | 需要先对某事物进行concretar才能做决定 |
+| 4 | C | concretar多用于正式/书面语境 |
+| 5 | B | concretar与resolver在语义上最接近 |
+| 6 | D | "llorar"与其他词无语义关联 |
+| 7 | A | concretar强调直接行动，evitar强调预防避免 |
+| 8 | B | 在此语境下concretar表示开始/着手做某事 |
+| 9 | B | abandonar（放弃）是concretar的反义词 |
+| 10 | D | 根据具体语境选择最合适的否定形式 |
+
+---
 
 ## 🔗 相关词汇
 
 | 词汇 | 含义 | 关系 |
 |------|------|------|
-| concreto | 具体的、混凝土 | 同根词/派生形容词 |
-| especificar | 具体说明 | 近义 |
-| precisar | 明确、精确 | 近义 |
-| abstractizar | 抽象化 | 反义 |
-| generalizar | 泛化 | 反义 |
-| concreción | 具体化 | 派生名词 |
+| abordaje | 处理、登船 | 同根名词 |
+| planteamiento | 提出、规划 | 同根名词 |
+| contributivo | 贡献的 | 同根形容词 |
+| optativo | 可选择的 | 同根形容词 |
+| subsistencia | 存在、持续 | 同根名词 |
+| concretización | 具体化 | 同根名词 |
+| dilucidación | 阐明、澄清 | 同根名词 |
+| -- | -- | -- |
+| evitar | 避免 | 近义（部分语境） |
+| abandonar | 放弃 | 反义 |
+| comenzar | 开始 | 近义 |
+| resolver | 解决 | 近义 |
