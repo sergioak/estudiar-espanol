@@ -44,8 +44,39 @@
 - 第3-5批已于 2026-04-28 完全重新生成，每张卡片包含正确的专属内容
 - 第6-10批（表达/短语类）经验证内容个性化，无需重新生成
 
+## 第11批词汇（100-127）— ✅ 改进完成
+
+|| # | 单词 | 释义 | 文件 | 状态 |
+|---|------|------|------|------|
+|| 100 | Caracterizar | 使具有特征 | ✅ caracterizar.md | ✅ 改进完成 (146行) |
+|| 101 | Carecer | 缺乏，缺少 | ✅ carezer.md | ✅ 改进完成 (145行) |
+|| 102 | Cargo | 职务；负担 | ✅ cargo.md | ✅ 改进完成 (147行) |
+|| 103 | Casero,ra | 家用的，家制的 | ✅ casero.md | ✅ 改进完成 (146行) |
+|| 107 | Ceguera | 失明 | ✅ ceguera.md | ✅ 改进完成 (148行) |
+|| 108 | Celeste | 天的，天蓝色 | ✅ celeste.md | ✅ 改进完成 (145行) |
+|| 109 | Celuloide | 电影，胶片 | ✅ celuloide.md | ✅ 改进完成 (146行) |
+|| 110 | Centenar | 百 | ✅ centenario.md | ✅ 改进完成 (146行) |
+|| 113 | Certificado | 证明，证书 | ✅ certificado.md | ✅ 改进完成 (149行) |
+|| 114 | Chantaje | 讹诈 | ✅ chantaje.md | ✅ 改进完成 (149行) |
+|| 115 | Chimenea | 壁炉 | ✅ chimenea.md | ✅ 改进完成 (146行) |
+|| 116 | Cicloturismo | 骑自行车旅游 | ✅ cicloturismo.md | ✅ 改进完成 (147行) |
+|| 117 | Circuito | 周围，四周，环行路 | ✅ circuito.md | ✅ 改进完成 (149行) |
+|| 118 | Circular | 圆形的；通知 | ✅ circular.md | ✅ 改进完成 (146行) |
+|| 119 | Citar | 引证；预约 | ✅ citar.md | ✅ 改进完成 (146行) |
+|| 122 | Clientela | 顾客 | ✅ clientela.md | ✅ 改进完成 (146行) |
+|| 123 | Cobertura | 覆盖物，覆盖范围 | ✅ cobertura.md | ✅ 改进完成 (146行) |
+|| 124 | Cobijarse | 躲避 | ✅ cobijarse.md | ✅ 改进完成 (146行) |
+|| 126 | Coincidir | 相符，一致 | ✅ coincidir.md | ✅ 改进完成 (146行) |
+|| 127 | Colada | 过滤 | ✅ colada.md | ✅ 改进完成 (146行) |
+|| 104 | Catálogo | 目录 | ✅ catálogo.md | ✅ 新建完成 (145行) |
+|| 105 | Categoría | 种类；等级 | ✅ categoría.md | ✅ 新建完成 (146行) |
+|| 106 | Cédula | 组织，房屋使用许可 | ✅ cédula.md | ✅ 新建完成 (146行) |
+|| 111 | Ceñir | 缠，绕，围绕 | ✅ ceñir.md | ✅ 新建完成 (146行) |
+|| 112 | Cercanía | 近，临近，近郊 | ✅ cercanía.md | ✅ 新建完成 (148行) |
+
 ## 统计
 - 已生成卡片数：110（含额外表达/短语卡片）
 - 已验证卡片数：110（全部）
+- 本批改进：25张（100-127 + 5张新建）
 - 目标总数：100（DELE B2 核心词）+ 额外表达
-- 状态：✅ 全部完成并验证
+- 状态：✅ 第11批改进完成
